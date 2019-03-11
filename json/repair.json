@@ -1,0 +1,908 @@
+{
+  "1": {
+    "seriesNo": "re-0001",
+    "repairDate": "2018/06/23 19:50",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 2,
+    "startDate": "2018/07/03 06:19",
+    "endDate": "2018/08/17 05:01",
+    "amount": 15595,
+    "machine": [
+      "machine-0003",
+      "machine-0007",
+      "machine-0012",
+      "machine-0020"
+    ]
+  },
+  "2": {
+    "seriesNo": "re-0002",
+    "repairDate": "2016/03/16 10:40",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 6,
+    "startDate": "2016/03/25 20:35",
+    "endDate": "2016/05/08 18:55",
+    "amount": 45998,
+    "machine": [
+      "machine-0041",
+      "machine-0013",
+      "machine-0004",
+      "machine-0006",
+      "machine-0007",
+      "machine-0038"
+    ]
+  },
+  "3": {
+    "seriesNo": "re-0003",
+    "repairDate": "2015/01/16 15:29",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 1,
+    "startDate": "2015/01/26 17:42",
+    "endDate": "2015/03/12 09:13",
+    "amount": 23477,
+    "machine": [
+      "machine-0046",
+      "machine-0016",
+      "machine-0038",
+      "machine-0007"
+    ]
+  },
+  "4": {
+    "seriesNo": "re-0004",
+    "repairDate": "2012/09/30 22:35",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 6,
+    "startDate": "2012/10/10 04:09",
+    "endDate": "2012/11/19 17:16",
+    "amount": 39761,
+    "machine": [
+      "machine-0009",
+      "machine-0040",
+      "machine-0004",
+      "machine-0021",
+      "machine-0003",
+      "machine-0044",
+      "machine-0026",
+      "machine-0046"
+    ]
+  },
+  "5": {
+    "seriesNo": "re-0005",
+    "repairDate": "2015/08/17 19:17",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 1,
+    "startDate": "2015/08/28 03:19",
+    "endDate": "2015/10/11 09:19",
+    "amount": 25513,
+    "machine": [
+      "machine-0019",
+      "machine-0035",
+      "machine-0023",
+      "machine-0011",
+      "machine-0022",
+      "machine-0031",
+      "machine-0016",
+      "machine-0030"
+    ]
+  },
+  "6": {
+    "seriesNo": "re-0006",
+    "repairDate": "2012/09/06 06:47",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 6,
+    "startDate": "2012/09/16 19:19",
+    "endDate": "2012/10/23 00:23",
+    "amount": 1349,
+    "machine": [
+      "machine-0017",
+      "machine-0038",
+      "machine-0042",
+      "machine-0031",
+      "machine-0033",
+      "machine-0026"
+    ]
+  },
+  "7": {
+    "seriesNo": "re-0007",
+    "repairDate": "2014/01/04 14:23",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 2,
+    "startDate": "2014/01/14 21:35",
+    "endDate": "2014/02/23 18:07",
+    "amount": 28425,
+    "machine": [
+      "machine-0017",
+      "machine-0041",
+      "machine-0007",
+      "machine-0028"
+    ]
+  },
+  "8": {
+    "seriesNo": "re-0008",
+    "repairDate": "2016/12/10 06:33",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 1,
+    "startDate": "2016/12/20 12:38",
+    "endDate": "2017/01/28 13:36",
+    "amount": 29655,
+    "machine": [
+      "machine-0007"
+    ]
+  },
+  "9": {
+    "seriesNo": "re-0009",
+    "repairDate": "2017/05/21 00:25",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 4,
+    "startDate": "2017/05/31 02:21",
+    "endDate": "2017/07/13 09:50",
+    "amount": 12956,
+    "machine": [
+      "machine-0007",
+      "machine-0027"
+    ]
+  },
+  "10": {
+    "seriesNo": "re-0010",
+    "repairDate": "2014/07/16 21:46",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 5,
+    "startDate": "2014/07/27 10:09",
+    "endDate": "2014/09/04 07:51",
+    "amount": 2266,
+    "machine": [
+      "machine-0006",
+      "machine-0025"
+    ]
+  },
+  "11": {
+    "seriesNo": "re-0011",
+    "repairDate": "2016/10/08 06:50",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2016/10/18 06:22",
+    "endDate": "2016/11/30 19:10",
+    "amount": 21045,
+    "machine": [
+      "machine-0024",
+      "machine-0012"
+    ]
+  },
+  "12": {
+    "seriesNo": "re-0012",
+    "repairDate": "2016/12/01 20:07",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 4,
+    "startDate": "2016/12/11 03:44",
+    "endDate": "2017/01/17 12:54",
+    "amount": 14006,
+    "machine": [
+      "machine-0049",
+      "machine-0016"
+    ]
+  },
+  "13": {
+    "seriesNo": "re-0013",
+    "repairDate": "2014/06/22 20:56",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 3,
+    "startDate": "2014/07/02 21:21",
+    "endDate": "2014/08/13 15:54",
+    "amount": 11574,
+    "machine": [
+      "machine-0036",
+      "machine-0027",
+      "machine-0016",
+      "machine-0037",
+      "machine-0042",
+      "machine-0031",
+      "machine-0012",
+      "machine-0007"
+    ]
+  },
+  "14": {
+    "seriesNo": "re-0014",
+    "repairDate": "2014/03/03 13:32",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 5,
+    "startDate": "2014/03/12 17:36",
+    "endDate": "2014/04/19 17:51",
+    "amount": 1463,
+    "machine": [
+      "machine-0030",
+      "machine-0020",
+      "machine-0045",
+      "machine-0026"
+    ]
+  },
+  "15": {
+    "seriesNo": "re-0015",
+    "repairDate": "2013/11/27 02:53",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 1,
+    "startDate": "2013/12/07 21:58",
+    "endDate": "2014/01/11 08:43",
+    "amount": 1352,
+    "machine": [
+      "machine-0050",
+      "machine-0024",
+      "machine-0032"
+    ]
+  },
+  "16": {
+    "seriesNo": "re-0016",
+    "repairDate": "2012/01/15 13:33",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 1,
+    "startDate": "2012/01/25 08:41",
+    "endDate": "2012/02/29 15:29",
+    "amount": 35023,
+    "machine": [
+      "machine-0044",
+      "machine-0010"
+    ]
+  },
+  "17": {
+    "seriesNo": "re-0017",
+    "repairDate": "2017/08/16 11:31",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 6,
+    "startDate": "2017/08/27 03:21",
+    "endDate": "2017/10/09 10:42",
+    "amount": 3900,
+    "machine": [
+      "machine-0037",
+      "machine-0041",
+      "machine-0029",
+      "machine-0021"
+    ]
+  },
+  "18": {
+    "seriesNo": "re-0018",
+    "repairDate": "2014/04/13 02:33",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 5,
+    "startDate": "2014/04/23 02:38",
+    "endDate": "2014/06/04 08:03",
+    "amount": 24081,
+    "machine": [
+      "machine-0027",
+      "machine-0046",
+      "machine-0029"
+    ]
+  },
+  "19": {
+    "seriesNo": "re-0019",
+    "repairDate": "2014/04/23 15:50",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 5,
+    "startDate": "2014/05/04 07:42",
+    "endDate": "2014/06/09 21:28",
+    "amount": 17372,
+    "machine": [
+      "machine-0023",
+      "machine-0026",
+      "machine-0017",
+      "machine-0042",
+      "machine-0006",
+      "machine-0020",
+      "machine-0019"
+    ]
+  },
+  "20": {
+    "seriesNo": "re-0020",
+    "repairDate": "2014/07/11 21:59",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 3,
+    "startDate": "2014/07/22 06:24",
+    "endDate": "2014/08/31 13:17",
+    "amount": 19161,
+    "machine": [
+      "machine-0033",
+      "machine-0019",
+      "machine-0016"
+    ]
+  },
+  "21": {
+    "seriesNo": "re-0021",
+    "repairDate": "2016/03/11 03:23",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 1,
+    "startDate": "2016/03/21 08:23",
+    "endDate": "2016/04/27 18:11",
+    "amount": 28033,
+    "machine": [
+      "machine-0041"
+    ]
+  },
+  "22": {
+    "seriesNo": "re-0022",
+    "repairDate": "2016/09/20 09:01",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2016/09/30 20:17",
+    "endDate": "2016/11/08 08:03",
+    "amount": 44819,
+    "machine": [
+      "machine-0015",
+      "machine-0009",
+      "machine-0019",
+      "machine-0020",
+      "machine-0012"
+    ]
+  },
+  "23": {
+    "seriesNo": "re-0023",
+    "repairDate": "2015/11/11 09:33",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 1,
+    "startDate": "2015/11/21 12:18",
+    "endDate": "2015/12/31 12:41",
+    "amount": 14325,
+    "machine": [
+      "machine-0021"
+    ]
+  },
+  "24": {
+    "seriesNo": "re-0024",
+    "repairDate": "2013/04/03 17:33",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 4,
+    "startDate": "2013/04/12 22:35",
+    "endDate": "2013/05/25 13:39",
+    "amount": 40959,
+    "machine": [
+      "machine-0002",
+      "machine-0014",
+      "machine-0040",
+      "machine-0033",
+      "machine-0050",
+      "machine-0001"
+    ]
+  },
+  "25": {
+    "seriesNo": "re-0025",
+    "repairDate": "2013/02/23 21:13",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 4,
+    "startDate": "2013/03/05 08:25",
+    "endDate": "2013/04/14 22:18",
+    "amount": 34911,
+    "machine": [
+      "machine-0047",
+      "machine-0050"
+    ]
+  },
+  "26": {
+    "seriesNo": "re-0026",
+    "repairDate": "2016/08/27 00:45",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 5,
+    "startDate": "2016/09/05 15:45",
+    "endDate": "2016/10/20 18:52",
+    "amount": 37335,
+    "machine": [
+      "machine-0015"
+    ]
+  },
+  "27": {
+    "seriesNo": "re-0027",
+    "repairDate": "2013/10/07 04:18",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 5,
+    "startDate": "2013/10/17 06:35",
+    "endDate": "2013/11/23 09:41",
+    "amount": 44947,
+    "machine": [
+      "machine-0044",
+      "machine-0013",
+      "machine-0029",
+      "machine-0001",
+      "machine-0024",
+      "machine-0026"
+    ]
+  },
+  "28": {
+    "seriesNo": "re-0028",
+    "repairDate": "2016/11/05 07:01",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2016/11/15 07:58",
+    "endDate": "2016/12/22 19:32",
+    "amount": 45612,
+    "machine": [
+      "machine-0035",
+      "machine-0043"
+    ]
+  },
+  "29": {
+    "seriesNo": "re-0029",
+    "repairDate": "2012/09/27 19:32",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 2,
+    "startDate": "2012/10/08 15:45",
+    "endDate": "2012/11/14 12:23",
+    "amount": 43699,
+    "machine": [
+      "machine-0028",
+      "machine-0029",
+      "machine-0036"
+    ]
+  },
+  "30": {
+    "seriesNo": "re-0030",
+    "repairDate": "2012/10/15 00:09",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2012/10/25 02:23",
+    "endDate": "2012/12/05 11:11",
+    "amount": 45940,
+    "machine": [
+      "machine-0033",
+      "machine-0040",
+      "machine-0047",
+      "machine-0005",
+      "machine-0022",
+      "machine-0042",
+      "machine-0013",
+      "machine-0048"
+    ]
+  },
+  "31": {
+    "seriesNo": "re-0031",
+    "repairDate": "2017/12/03 15:45",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 5,
+    "startDate": "2017/12/13 21:38",
+    "endDate": "2018/01/17 20:47",
+    "amount": 41296,
+    "machine": [
+      "machine-0009",
+      "machine-0043",
+      "machine-0048",
+      "machine-0018",
+      "machine-0020",
+      "machine-0022"
+    ]
+  },
+  "32": {
+    "seriesNo": "re-0032",
+    "repairDate": "2017/07/17 19:02",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 1,
+    "startDate": "2017/07/26 23:51",
+    "endDate": "2017/09/03 00:17",
+    "amount": 3185,
+    "machine": [
+      "machine-0042",
+      "machine-0018",
+      "machine-0009",
+      "machine-0002",
+      "machine-0006"
+    ]
+  },
+  "33": {
+    "seriesNo": "re-0033",
+    "repairDate": "2019/01/30 22:48",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2019/02/10 10:13",
+    "endDate": "2019/03/19 14:04",
+    "amount": 26172,
+    "machine": [
+      "machine-0041",
+      "machine-0044",
+      "machine-0023",
+      "machine-0034",
+      "machine-0030",
+      "machine-0003",
+      "machine-0012",
+      "machine-0032"
+    ]
+  },
+  "34": {
+    "seriesNo": "re-0034",
+    "repairDate": "2014/08/28 12:40",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 1,
+    "startDate": "2014/09/06 20:41",
+    "endDate": "2014/10/22 02:25",
+    "amount": 48147,
+    "machine": [
+      "machine-0008",
+      "machine-0002",
+      "machine-0035",
+      "machine-0017",
+      "machine-0029"
+    ]
+  },
+  "35": {
+    "seriesNo": "re-0035",
+    "repairDate": "2012/03/23 12:37",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 6,
+    "startDate": "2012/04/01 19:46",
+    "endDate": "2012/05/11 17:30",
+    "amount": 7616,
+    "machine": [
+      "machine-0007",
+      "machine-0017"
+    ]
+  },
+  "36": {
+    "seriesNo": "re-0036",
+    "repairDate": "2013/02/12 14:33",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 1,
+    "startDate": "2013/02/22 23:08",
+    "endDate": "2013/04/01 05:22",
+    "amount": 3334,
+    "machine": [
+      "machine-0048",
+      "machine-0004"
+    ]
+  },
+  "37": {
+    "seriesNo": "re-0037",
+    "repairDate": "2012/11/10 19:23",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 3,
+    "startDate": "2012/11/21 04:57",
+    "endDate": "2012/12/26 03:47",
+    "amount": 27716,
+    "machine": [
+      "machine-0034",
+      "machine-0044",
+      "machine-0009"
+    ]
+  },
+  "38": {
+    "seriesNo": "re-0038",
+    "repairDate": "2016/06/11 09:10",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 1,
+    "startDate": "2016/06/20 16:06",
+    "endDate": "2016/08/01 13:01",
+    "amount": 29519,
+    "machine": [
+      "machine-0050",
+      "machine-0009",
+      "machine-0003",
+      "machine-0044",
+      "machine-0015",
+      "machine-0011",
+      "machine-0014",
+      "machine-0008"
+    ]
+  },
+  "39": {
+    "seriesNo": "re-0039",
+    "repairDate": "2015/02/27 14:46",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 5,
+    "startDate": "2015/03/08 16:51",
+    "endDate": "2015/04/18 00:54",
+    "amount": 15266,
+    "machine": [
+      "machine-0020"
+    ]
+  },
+  "40": {
+    "seriesNo": "re-0040",
+    "repairDate": "2016/07/26 07:24",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 1,
+    "startDate": "2016/08/05 08:08",
+    "endDate": "2016/09/14 18:43",
+    "amount": 40709,
+    "machine": [
+      "machine-0009",
+      "machine-0003"
+    ]
+  },
+  "41": {
+    "seriesNo": "re-0041",
+    "repairDate": "2012/05/11 09:58",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 4,
+    "startDate": "2012/05/21 06:56",
+    "endDate": "2012/06/29 04:18",
+    "amount": 16577,
+    "machine": [
+      "machine-0007"
+    ]
+  },
+  "42": {
+    "seriesNo": "re-0042",
+    "repairDate": "2017/08/29 07:03",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 6,
+    "startDate": "2017/09/07 20:56",
+    "endDate": "2017/10/18 11:19",
+    "amount": 35190,
+    "machine": [
+      "machine-0004",
+      "machine-0024",
+      "machine-0009",
+      "machine-0037",
+      "machine-0034",
+      "machine-0033"
+    ]
+  },
+  "43": {
+    "seriesNo": "re-0043",
+    "repairDate": "2016/09/28 17:54",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2016/10/09 07:09",
+    "endDate": "2016/11/19 05:35",
+    "amount": 18964,
+    "machine": [
+      "machine-0023",
+      "machine-0017",
+      "machine-0003",
+      "machine-0033"
+    ]
+  },
+  "44": {
+    "seriesNo": "re-0044",
+    "repairDate": "2013/04/16 21:37",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 4,
+    "startDate": "2013/04/25 23:59",
+    "endDate": "2013/06/05 02:12",
+    "amount": 14063,
+    "machine": [
+      "machine-0042",
+      "machine-0046",
+      "machine-0027",
+      "machine-0026",
+      "machine-0021",
+      "machine-0011",
+      "machine-0050",
+      "machine-0049"
+    ]
+  },
+  "45": {
+    "seriesNo": "re-0045",
+    "repairDate": "2016/12/24 19:51",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2017/01/03 21:41",
+    "endDate": "2017/02/10 02:14",
+    "amount": 19528,
+    "machine": [
+      "machine-0001",
+      "machine-0032",
+      "machine-0025",
+      "machine-0006",
+      "machine-0038"
+    ]
+  },
+  "46": {
+    "seriesNo": "re-0046",
+    "repairDate": "2018/02/28 03:03",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2018/03/10 00:08",
+    "endDate": "2018/04/14 03:11",
+    "amount": 19145,
+    "machine": [
+      "machine-0022",
+      "machine-0027"
+    ]
+  },
+  "47": {
+    "seriesNo": "re-0047",
+    "repairDate": "2019/01/01 07:38",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 1,
+    "startDate": "2019/01/12 05:33",
+    "endDate": "2019/02/22 13:15",
+    "amount": 41374,
+    "machine": [
+      "machine-0021",
+      "machine-0024",
+      "machine-0042",
+      "machine-0039"
+    ]
+  },
+  "48": {
+    "seriesNo": "re-0048",
+    "repairDate": "2017/04/19 18:46",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 1,
+    "startDate": "2017/04/30 18:29",
+    "endDate": "2017/06/11 19:15",
+    "amount": 23692,
+    "machine": [
+      "machine-0032",
+      "machine-0003",
+      "machine-0008",
+      "machine-0016",
+      "machine-0006",
+      "machine-0050"
+    ]
+  },
+  "49": {
+    "seriesNo": "re-0049",
+    "repairDate": "2012/12/07 10:26",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "亞磯",
+    "process": 5,
+    "startDate": "2012/12/18 01:26",
+    "endDate": "2013/01/26 04:30",
+    "amount": 667,
+    "machine": [
+      "machine-0038",
+      "machine-0026",
+      "machine-0019",
+      "machine-0041",
+      "machine-0009",
+      "machine-0048",
+      "machine-0050",
+      "machine-0004"
+    ]
+  },
+  "50": {
+    "seriesNo": "re-0050",
+    "repairDate": "2014/07/27 22:31",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20號",
+    "company": "流亞",
+    "process": 4,
+    "startDate": "2014/08/07 16:32",
+    "endDate": "2014/09/20 11:06",
+    "amount": 49028,
+    "machine": [
+      "machine-0040",
+      "machine-0036"
+    ]
+  }
+}
