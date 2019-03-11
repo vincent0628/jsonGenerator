@@ -17,3 +17,4 @@ application.yml
 ams-web/tmp_ehcache/*
 
 /.idea
+.json

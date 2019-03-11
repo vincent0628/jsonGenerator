@@ -1,23 +1,911 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>jsonGenerator</title>
-</head>
-<body>
-    <header>
-    </header>
-    <main>
-        <div id="go">
-        </div>
-        
-    </main>
-
-    <footer>
-    </footer>
-</body>
-<script src="./js/jquery-2.1.4.min.js"></script>
-<script src="./js/change.js"></script>
-</html>
+{
+    "1": {
+        "seriesNo": "tank-0001",
+        "fillOutDate": "2016/03/04 00:02",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 4,
+        "startDate": "2016/03/14 15:19",
+        "endDate": "2016/04/25 05:45",
+        "amount": 38924,
+        "machine": [
+            "machine-0016",
+            "machine-0024",
+            "machine-0029",
+            "machine-0035",
+            "machine-0011"
+        ]
+    },
+    "2": {
+        "seriesNo": "tank-0002",
+        "fillOutDate": "2014/01/08 18:29",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 5,
+        "startDate": "2014/01/18 20:06",
+        "endDate": "2014/02/26 06:08",
+        "amount": 11138,
+        "machine": [
+            "machine-0017",
+            "machine-0005",
+            "machine-0044",
+            "machine-0009",
+            "machine-0033"
+        ]
+    },
+    "3": {
+        "seriesNo": "tank-0003",
+        "fillOutDate": "2015/10/07 23:46",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 1,
+        "startDate": "2015/10/17 10:38",
+        "endDate": "2015/12/01 22:26",
+        "amount": 3227,
+        "machine": [
+            "machine-0018",
+            "machine-0028",
+            "machine-0017"
+        ]
+    },
+    "4": {
+        "seriesNo": "tank-0004",
+        "fillOutDate": "2013/06/07 21:37",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 1,
+        "startDate": "2013/06/17 03:40",
+        "endDate": "2013/07/29 16:57",
+        "amount": 47069,
+        "machine": [
+            "machine-0032",
+            "machine-0029",
+            "machine-0027",
+            "machine-0005"
+        ]
+    },
+    "5": {
+        "seriesNo": "tank-0005",
+        "fillOutDate": "2013/01/16 15:33",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 4,
+        "startDate": "2013/01/26 10:10",
+        "endDate": "2013/03/08 10:18",
+        "amount": 48683,
+        "machine": [
+            "machine-0041",
+            "machine-0010",
+            "machine-0016",
+            "machine-0008",
+            "machine-0018"
+        ]
+    },
+    "6": {
+        "seriesNo": "tank-0006",
+        "fillOutDate": "2012/05/17 21:11",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 5,
+        "startDate": "2012/05/27 18:05",
+        "endDate": "2012/07/06 18:57",
+        "amount": 5694,
+        "machine": [
+            "machine-0025"
+        ]
+    },
+    "7": {
+        "seriesNo": "tank-0007",
+        "fillOutDate": "2016/04/19 14:17",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 1,
+        "startDate": "2016/04/28 14:56",
+        "endDate": "2016/06/08 16:12",
+        "amount": 4078,
+        "machine": [
+            "machine-0048",
+            "machine-0004"
+        ]
+    },
+    "8": {
+        "seriesNo": "tank-0008",
+        "fillOutDate": "2016/12/03 10:03",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2016/12/14 06:41",
+        "endDate": "2017/01/18 15:11",
+        "amount": 12046,
+        "machine": [
+            "machine-0008"
+        ]
+    },
+    "9": {
+        "seriesNo": "tank-0009",
+        "fillOutDate": "2012/03/13 14:09",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 4,
+        "startDate": "2012/03/23 17:04",
+        "endDate": "2012/05/03 17:33",
+        "amount": 11654,
+        "machine": [
+            "machine-0031",
+            "machine-0017",
+            "machine-0015",
+            "machine-0016",
+            "machine-0042",
+            "machine-0020"
+        ]
+    },
+    "10": {
+        "seriesNo": "tank-0010",
+        "fillOutDate": "2016/09/12 02:22",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 3,
+        "startDate": "2016/09/21 12:07",
+        "endDate": "2016/10/29 19:25",
+        "amount": 14164,
+        "machine": [
+            "machine-0029",
+            "machine-0020",
+            "machine-0038",
+            "machine-0041",
+            "machine-0017",
+            "machine-0034"
+        ]
+    },
+    "11": {
+        "seriesNo": "tank-0011",
+        "fillOutDate": "2017/01/16 18:54",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2017/01/26 08:26",
+        "endDate": "2017/03/09 08:36",
+        "amount": 30326,
+        "machine": [
+            "machine-0016",
+            "machine-0022",
+            "machine-0008"
+        ]
+    },
+    "12": {
+        "seriesNo": "tank-0012",
+        "fillOutDate": "2014/02/14 15:43",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 5,
+        "startDate": "2014/02/25 10:25",
+        "endDate": "2014/04/09 10:37",
+        "amount": 49686,
+        "machine": [
+            "machine-0048",
+            "machine-0019",
+            "machine-0020",
+            "machine-0032"
+        ]
+    },
+    "13": {
+        "seriesNo": "tank-0013",
+        "fillOutDate": "2014/10/20 18:11",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 1,
+        "startDate": "2014/10/30 02:58",
+        "endDate": "2014/12/05 10:15",
+        "amount": 11382,
+        "machine": [
+            "machine-0029"
+        ]
+    },
+    "14": {
+        "seriesNo": "tank-0014",
+        "fillOutDate": "2014/10/22 10:56",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2014/11/02 03:51",
+        "endDate": "2014/12/11 16:41",
+        "amount": 10421,
+        "machine": [
+            "machine-0035",
+            "machine-0042",
+            "machine-0005",
+            "machine-0028",
+            "machine-0021",
+            "machine-0023",
+            "machine-0008",
+            "machine-0019"
+        ]
+    },
+    "15": {
+        "seriesNo": "tank-0015",
+        "fillOutDate": "2015/11/02 23:19",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2015/11/13 04:27",
+        "endDate": "2015/12/25 06:51",
+        "amount": 37056,
+        "machine": [
+            "machine-0038"
+        ]
+    },
+    "16": {
+        "seriesNo": "tank-0016",
+        "fillOutDate": "2015/05/05 17:44",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 1,
+        "startDate": "2015/05/15 20:50",
+        "endDate": "2015/06/21 11:13",
+        "amount": 48996,
+        "machine": [
+            "machine-0019",
+            "machine-0006"
+        ]
+    },
+    "17": {
+        "seriesNo": "tank-0017",
+        "fillOutDate": "2018/09/30 02:22",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2018/10/10 00:07",
+        "endDate": "2018/11/20 05:18",
+        "amount": 13242,
+        "machine": [
+            "machine-0042",
+            "machine-0015",
+            "machine-0031",
+            "machine-0026"
+        ]
+    },
+    "18": {
+        "seriesNo": "tank-0018",
+        "fillOutDate": "2013/10/09 07:48",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 4,
+        "startDate": "2013/10/18 07:55",
+        "endDate": "2013/11/23 13:24",
+        "amount": 33977,
+        "machine": [
+            "machine-0029",
+            "machine-0025",
+            "machine-0040",
+            "machine-0005",
+            "machine-0047",
+            "machine-0020",
+            "machine-0042"
+        ]
+    },
+    "19": {
+        "seriesNo": "tank-0019",
+        "fillOutDate": "2016/12/03 05:35",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 4,
+        "startDate": "2016/12/13 15:37",
+        "endDate": "2017/01/17 19:58",
+        "amount": 21512,
+        "machine": [
+            "machine-0034",
+            "machine-0025"
+        ]
+    },
+    "20": {
+        "seriesNo": "tank-0020",
+        "fillOutDate": "2015/11/07 03:28",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2015/11/16 10:32",
+        "endDate": "2015/12/29 04:16",
+        "amount": 14771,
+        "machine": [
+            "machine-0028",
+            "machine-0008",
+            "machine-0036",
+            "machine-0045",
+            "machine-0033",
+            "machine-0009",
+            "machine-0022"
+        ]
+    },
+    "21": {
+        "seriesNo": "tank-0021",
+        "fillOutDate": "2013/04/05 04:21",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 4,
+        "startDate": "2013/04/16 02:27",
+        "endDate": "2013/05/26 06:21",
+        "amount": 16062,
+        "machine": [
+            "machine-0025",
+            "machine-0009",
+            "machine-0022",
+            "machine-0007"
+        ]
+    },
+    "22": {
+        "seriesNo": "tank-0022",
+        "fillOutDate": "2013/02/21 15:23",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 6,
+        "startDate": "2013/03/03 13:31",
+        "endDate": "2013/04/08 03:24",
+        "amount": 9208,
+        "machine": [
+            "machine-0002",
+            "machine-0027",
+            "machine-0024"
+        ]
+    },
+    "23": {
+        "seriesNo": "tank-0023",
+        "fillOutDate": "2013/05/25 10:43",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 1,
+        "startDate": "2013/06/04 21:12",
+        "endDate": "2013/07/14 23:00",
+        "amount": 47922,
+        "machine": [
+            "machine-0014",
+            "machine-0020",
+            "machine-0039",
+            "machine-0044",
+            "machine-0043",
+            "machine-0012",
+            "machine-0007"
+        ]
+    },
+    "24": {
+        "seriesNo": "tank-0024",
+        "fillOutDate": "2012/07/11 15:55",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 2,
+        "startDate": "2012/07/21 04:07",
+        "endDate": "2012/08/31 13:53",
+        "amount": 45432,
+        "machine": [
+            "machine-0015",
+            "machine-0010"
+        ]
+    },
+    "25": {
+        "seriesNo": "tank-0025",
+        "fillOutDate": "2014/12/07 11:20",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 4,
+        "startDate": "2014/12/16 20:15",
+        "endDate": "2015/01/25 06:47",
+        "amount": 44366,
+        "machine": [
+            "machine-0039"
+        ]
+    },
+    "26": {
+        "seriesNo": "tank-0026",
+        "fillOutDate": "2012/06/04 00:59",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 5,
+        "startDate": "2012/06/14 20:57",
+        "endDate": "2012/07/22 21:00",
+        "amount": 40841,
+        "machine": [
+            "machine-0033",
+            "machine-0020",
+            "machine-0036"
+        ]
+    },
+    "27": {
+        "seriesNo": "tank-0027",
+        "fillOutDate": "2012/02/29 04:27",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2012/03/10 08:15",
+        "endDate": "2012/04/18 08:25",
+        "amount": 13252,
+        "machine": [
+            "machine-0015",
+            "machine-0019",
+            "machine-0046",
+            "machine-0001",
+            "machine-0032"
+        ]
+    },
+    "28": {
+        "seriesNo": "tank-0028",
+        "fillOutDate": "2014/02/07 00:12",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 4,
+        "startDate": "2014/02/17 02:02",
+        "endDate": "2014/03/29 11:27",
+        "amount": 32139,
+        "machine": [
+            "machine-0024",
+            "machine-0004",
+            "machine-0034",
+            "machine-0002",
+            "machine-0036",
+            "machine-0025",
+            "machine-0015"
+        ]
+    },
+    "29": {
+        "seriesNo": "tank-0029",
+        "fillOutDate": "2018/08/19 08:55",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 3,
+        "startDate": "2018/08/30 08:07",
+        "endDate": "2018/10/13 06:58",
+        "amount": 46565,
+        "machine": [
+            "machine-0006",
+            "machine-0029",
+            "machine-0017",
+            "machine-0001"
+        ]
+    },
+    "30": {
+        "seriesNo": "tank-0030",
+        "fillOutDate": "2018/02/27 06:30",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2018/03/09 12:28",
+        "endDate": "2018/04/19 10:33",
+        "amount": 48426,
+        "machine": [
+            "machine-0018",
+            "machine-0014"
+        ]
+    },
+    "31": {
+        "seriesNo": "tank-0031",
+        "fillOutDate": "2014/02/25 10:06",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 5,
+        "startDate": "2014/03/07 00:06",
+        "endDate": "2014/04/15 23:27",
+        "amount": 12573,
+        "machine": [
+            "machine-0005",
+            "machine-0013",
+            "machine-0042",
+            "machine-0006",
+            "machine-0010",
+            "machine-0036",
+            "machine-0007"
+        ]
+    },
+    "32": {
+        "seriesNo": "tank-0032",
+        "fillOutDate": "2012/09/06 01:52",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 1,
+        "startDate": "2012/09/16 05:54",
+        "endDate": "2012/10/30 06:56",
+        "amount": 28115,
+        "machine": [
+            "machine-0010",
+            "machine-0008",
+            "machine-0045",
+            "machine-0043",
+            "machine-0003"
+        ]
+    },
+    "33": {
+        "seriesNo": "tank-0033",
+        "fillOutDate": "2019/01/28 23:32",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2019/02/07 11:29",
+        "endDate": "2019/03/17 03:17",
+        "amount": 29604,
+        "machine": [
+            "machine-0031",
+            "machine-0011",
+            "machine-0008",
+            "machine-0001",
+            "machine-0023",
+            "machine-0048",
+            "machine-0009",
+            "machine-0021"
+        ]
+    },
+    "34": {
+        "seriesNo": "tank-0034",
+        "fillOutDate": "2016/05/07 21:54",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2016/05/18 04:57",
+        "endDate": "2016/06/23 12:15",
+        "amount": 17779,
+        "machine": [
+            "machine-0008",
+            "machine-0028",
+            "machine-0003"
+        ]
+    },
+    "35": {
+        "seriesNo": "tank-0035",
+        "fillOutDate": "2019/03/08 15:04",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 4,
+        "startDate": "2019/03/17 16:39",
+        "endDate": "2019/04/28 13:37",
+        "amount": 16707,
+        "machine": [
+            "machine-0014",
+            "machine-0028",
+            "machine-0037",
+            "machine-0017",
+            "machine-0036",
+            "machine-0026"
+        ]
+    },
+    "36": {
+        "seriesNo": "tank-0036",
+        "fillOutDate": "2012/07/31 15:03",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 1,
+        "startDate": "2012/08/10 21:33",
+        "endDate": "2012/09/16 21:36",
+        "amount": 49126,
+        "machine": [
+            "machine-0038",
+            "machine-0029",
+            "machine-0003",
+            "machine-0040",
+            "machine-0037",
+            "machine-0045",
+            "machine-0006"
+        ]
+    },
+    "37": {
+        "seriesNo": "tank-0037",
+        "fillOutDate": "2016/10/19 23:54",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 2,
+        "startDate": "2016/10/29 20:12",
+        "endDate": "2016/12/12 05:10",
+        "amount": 47075,
+        "machine": [
+            "machine-0015",
+            "machine-0008",
+            "machine-0004"
+        ]
+    },
+    "38": {
+        "seriesNo": "tank-0038",
+        "fillOutDate": "2013/04/01 23:36",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 3,
+        "startDate": "2013/04/10 23:56",
+        "endDate": "2013/05/22 04:24",
+        "amount": 17790,
+        "machine": [
+            "machine-0037"
+        ]
+    },
+    "39": {
+        "seriesNo": "tank-0039",
+        "fillOutDate": "2014/07/08 14:30",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 4,
+        "startDate": "2014/07/18 03:39",
+        "endDate": "2014/08/26 08:29",
+        "amount": 47657,
+        "machine": [
+            "machine-0002",
+            "machine-0031",
+            "machine-0014",
+            "machine-0019",
+            "machine-0010",
+            "machine-0030",
+            "machine-0050",
+            "machine-0015"
+        ]
+    },
+    "40": {
+        "seriesNo": "tank-0040",
+        "fillOutDate": "2015/01/23 16:55",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 5,
+        "startDate": "2015/02/02 01:12",
+        "endDate": "2015/03/13 01:15",
+        "amount": 46073,
+        "machine": [
+            "machine-0031",
+            "machine-0041"
+        ]
+    },
+    "41": {
+        "seriesNo": "tank-0041",
+        "fillOutDate": "2016/10/04 07:20",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 4,
+        "startDate": "2016/10/13 20:46",
+        "endDate": "2016/11/28 04:33",
+        "amount": 33142,
+        "machine": [
+            "machine-0025"
+        ]
+    },
+    "42": {
+        "seriesNo": "tank-0042",
+        "fillOutDate": "2014/04/02 00:13",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2014/04/12 20:26",
+        "endDate": "2014/05/22 05:55",
+        "amount": 7497,
+        "machine": [
+            "machine-0010",
+            "machine-0026",
+            "machine-0050",
+            "machine-0039",
+            "machine-0011",
+            "machine-0037"
+        ]
+    },
+    "43": {
+        "seriesNo": "tank-0043",
+        "fillOutDate": "2015/05/26 14:23",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 3,
+        "startDate": "2015/06/05 02:26",
+        "endDate": "2015/07/20 00:09",
+        "amount": 23208,
+        "machine": [
+            "machine-0015",
+            "machine-0003",
+            "machine-0050",
+            "machine-0027",
+            "machine-0037",
+            "machine-0044",
+            "machine-0021"
+        ]
+    },
+    "44": {
+        "seriesNo": "tank-0044",
+        "fillOutDate": "2015/10/21 18:40",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 6,
+        "startDate": "2015/11/01 03:05",
+        "endDate": "2015/12/10 10:36",
+        "amount": 16690,
+        "machine": [
+            "machine-0049",
+            "machine-0047",
+            "machine-0014"
+        ]
+    },
+    "45": {
+        "seriesNo": "tank-0045",
+        "fillOutDate": "2014/02/20 19:37",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 4,
+        "startDate": "2014/03/02 16:50",
+        "endDate": "2014/04/14 07:00",
+        "amount": 7641,
+        "machine": [
+            "machine-0028"
+        ]
+    },
+    "46": {
+        "seriesNo": "tank-0046",
+        "fillOutDate": "2016/11/09 21:14",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2016/11/20 02:06",
+        "endDate": "2016/12/30 15:39",
+        "amount": 7816,
+        "machine": [
+            "machine-0037",
+            "machine-0030",
+            "machine-0024",
+            "machine-0031"
+        ]
+    },
+    "47": {
+        "seriesNo": "tank-0047",
+        "fillOutDate": "2015/12/05 20:45",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 5,
+        "startDate": "2015/12/15 04:43",
+        "endDate": "2016/01/27 22:13",
+        "amount": 15485,
+        "machine": [
+            "machine-0007",
+            "machine-0035",
+            "machine-0029",
+            "machine-0003",
+            "machine-0019",
+            "machine-0032"
+        ]
+    },
+    "48": {
+        "seriesNo": "tank-0048",
+        "fillOutDate": "2016/05/19 06:28",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "流亞",
+        "process": 6,
+        "startDate": "2016/05/28 18:06",
+        "endDate": "2016/07/12 23:08",
+        "amount": 41763,
+        "machine": [
+            "machine-0025",
+            "machine-0004",
+            "machine-0033",
+            "machine-0036"
+        ]
+    },
+    "49": {
+        "seriesNo": "tank-0049",
+        "fillOutDate": "2017/06/08 10:27",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 4,
+        "startDate": "2017/06/17 18:20",
+        "endDate": "2017/07/27 11:49",
+        "amount": 8132,
+        "machine": [
+            "machine-0028",
+            "machine-0009",
+            "machine-0040",
+            "machine-0001",
+            "machine-0026",
+            "machine-0023",
+            "machine-0004"
+        ]
+    },
+    "50": {
+        "seriesNo": "tank-0050",
+        "fillOutDate": "2012/05/29 06:31",
+        "customerName": "紡織所雲林分部",
+        "customerPhone": "055519899",
+        "customerAddress": "64057 雲林縣斗六市科加路20號",
+        "company": "亞磯",
+        "process": 1,
+        "startDate": "2012/06/09 03:23",
+        "endDate": "2012/07/20 08:54",
+        "amount": 25108,
+        "machine": [
+            "machine-0003",
+            "machine-0011",
+            "machine-0007",
+            "machine-0002",
+            "machine-0022"
+        ]
+    }
+}

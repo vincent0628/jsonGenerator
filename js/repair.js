@@ -15,9 +15,9 @@ $(function () {
 
         let startDate = getStartDate(new Date(repairDate));
         let endDate = getEndDate(new Date(repairDate));
-        let amount = getRandomInt(50000);
+        let amount = getRandom(2000,50000);
 
-        let machineNum = getRandomInt(8) + 1;
+        let machineNum = getRandom(1,8);
         let randomArray = getRandomArray(1, 50, machineNum);
         let machineArray = [];
         randomArray.forEach(function (item, index, array) {
@@ -45,6 +45,8 @@ $(function () {
     }
 // language=JQuery-CSS
     $("#go").text(JSON.stringify(jsonFile));
+    fs = require('fs');
+    fs.writeFileSync('/tmp/phraseFreqs.json', jsonFile);
 })
 
 function getMyDate(date) {
@@ -90,12 +92,8 @@ function getRandom(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-function getRandomInt(max) {
-    return Math.floor(Math.random() * Math.floor(max));
-}
-
 function getRandomArray(minNum, maxNum, n) {	//隨機產生不重覆的n個數字
-    var rdmArray = [n];		//儲存產生的陣列
+    let rdmArray = [n];		//儲存產生的陣列
 
     for (var i = 0; i < n; i++) {
         var rdm = 0;		//暫存的亂數

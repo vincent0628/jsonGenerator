@@ -1,352 +1,452 @@
 {
   "1": {
-    "id": 1,
-    "seriesNo": "re-0001",
-    "complainDate": "2014/1/18 22:21",
+    "seriesNo": "complaint-0001",
+    "complainDate": "2018/05/03 04:42",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
-    "process": 1
+    "process": 4
   },
   "2": {
-    "id": 2,
-    "seriesNo": "re-0002",
-    "complainDate": "2015/4/18 20:11",
-    "company": "流亞",
+    "seriesNo": "complaint-0002",
+    "complainDate": "2018/04/15 09:41",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
     "process": 1
   },
   "3": {
-    "id": 3,
-    "seriesNo": "re-0003",
-    "complainDate": "2016/10/29 13:59",
+    "seriesNo": "complaint-0003",
+    "complainDate": "2015/12/17 04:51",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
-    "process": 4
+    "process": 1
   },
   "4": {
-    "id": 4,
-    "seriesNo": "re-0004",
-    "complainDate": "2015/9/9 10:13",
-    "company": "亞磯",
-    "process": 1
+    "seriesNo": "complaint-0004",
+    "complainDate": "2012/07/12 15:11",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 2
   },
   "5": {
-    "id": 5,
-    "seriesNo": "re-0005",
-    "complainDate": "2015/3/19 03:39",
-    "company": "亞磯",
-    "process": 1
+    "seriesNo": "complaint-0005",
+    "complainDate": "2012/11/25 08:22",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 4
   },
   "6": {
-    "id": 6,
-    "seriesNo": "re-0006",
-    "complainDate": "2018/11/14 02:18",
+    "seriesNo": "complaint-0006",
+    "complainDate": "2018/03/21 13:52",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
-    "process": 1
+    "process": 4
   },
   "7": {
-    "id": 7,
-    "seriesNo": "re-0007",
-    "complainDate": "2012/6/1 09:3",
-    "company": "流亞",
-    "process": 4
+    "seriesNo": "complaint-0007",
+    "complainDate": "2012/06/18 03:38",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 2
   },
   "8": {
-    "id": 8,
-    "seriesNo": "re-0008",
-    "complainDate": "2014/3/7 00:34",
-    "company": "流亞",
-    "process": 4
-  },
-  "9": {
-    "id": 9,
-    "seriesNo": "re-0009",
-    "complainDate": "2019/3/8 08:51",
+    "seriesNo": "complaint-0008",
+    "complainDate": "2016/12/27 15:33",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
     "process": 1
   },
-  "10": {
-    "id": 10,
-    "seriesNo": "re-0010",
-    "complainDate": "2018/5/23 12:32",
+  "9": {
+    "seriesNo": "complaint-0009",
+    "complainDate": "2013/06/29 20:59",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "亞磯",
+    "process": 3
+  },
+  "10": {
+    "seriesNo": "complaint-0010",
+    "complainDate": "2017/10/23 06:13",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
     "process": 4
   },
   "11": {
-    "id": 11,
-    "seriesNo": "re-0011",
-    "complainDate": "2013/5/30 12:56",
-    "company": "流亞",
-    "process": 4
-  },
-  "12": {
-    "id": 12,
-    "seriesNo": "re-0012",
-    "complainDate": "2018/12/28 02:8",
+    "seriesNo": "complaint-0011",
+    "complainDate": "2017/07/09 22:42",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "亞磯",
     "process": 4
   },
+  "12": {
+    "seriesNo": "complaint-0012",
+    "complainDate": "2012/07/05 11:09",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 6
+  },
   "13": {
-    "id": 13,
-    "seriesNo": "re-0013",
-    "complainDate": "2016/2/9 11:40",
+    "seriesNo": "complaint-0013",
+    "complainDate": "2012/02/01 18:04",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "亞磯",
     "process": 1
   },
   "14": {
-    "id": 14,
-    "seriesNo": "re-0014",
-    "complainDate": "2018/6/19 04:23",
-    "company": "亞磯",
+    "seriesNo": "complaint-0014",
+    "complainDate": "2012/08/15 13:22",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
     "process": 4
   },
   "15": {
-    "id": 15,
-    "seriesNo": "re-0015",
-    "complainDate": "2013/7/2 02:33",
-    "company": "流亞",
-    "process": 1
+    "seriesNo": "complaint-0015",
+    "complainDate": "2016/04/23 11:17",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 4
   },
   "16": {
-    "id": 16,
-    "seriesNo": "re-0016",
-    "complainDate": "2013/9/27 14:19",
-    "company": "亞磯",
-    "process": 1
+    "seriesNo": "complaint-0016",
+    "complainDate": "2014/01/13 14:22",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 5
   },
   "17": {
-    "id": 17,
-    "seriesNo": "re-0017",
-    "complainDate": "2018/6/27 03:13",
+    "seriesNo": "complaint-0017",
+    "complainDate": "2018/05/16 13:47",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "亞磯",
-    "process": 1
+    "process": 2
   },
   "18": {
-    "id": 18,
-    "seriesNo": "re-0018",
-    "complainDate": "2015/5/7 00:23",
+    "seriesNo": "complaint-0018",
+    "complainDate": "2016/06/08 04:28",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
     "process": 1
   },
   "19": {
-    "id": 19,
-    "seriesNo": "re-0019",
-    "complainDate": "2012/4/18 14:28",
-    "company": "流亞",
+    "seriesNo": "complaint-0019",
+    "complainDate": "2017/07/20 08:49",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
     "process": 1
   },
   "20": {
-    "id": 20,
-    "seriesNo": "re-0020",
-    "complainDate": "2018/11/17 20:31",
+    "seriesNo": "complaint-0020",
+    "complainDate": "2018/03/16 06:07",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
-    "process": 1
+    "process": 4
   },
   "21": {
-    "id": 21,
-    "seriesNo": "re-0021",
-    "complainDate": "2013/5/1 02:0",
-    "company": "亞磯",
-    "process": 1
+    "seriesNo": "complaint-0021",
+    "complainDate": "2013/03/01 15:26",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 4
   },
   "22": {
-    "id": 22,
-    "seriesNo": "re-0022",
-    "complainDate": "2018/11/18 15:15",
-    "company": "流亞",
-    "process": 4
+    "seriesNo": "complaint-0022",
+    "complainDate": "2017/11/12 23:58",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 3
   },
   "23": {
-    "id": 23,
-    "seriesNo": "re-0023",
-    "complainDate": "2017/6/24 23:17",
+    "seriesNo": "complaint-0023",
+    "complainDate": "2012/04/05 15:29",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
-    "process": 1
+    "process": 4
   },
   "24": {
-    "id": 24,
-    "seriesNo": "re-0024",
-    "complainDate": "2018/8/20 05:56",
-    "company": "亞磯",
-    "process": 4
+    "seriesNo": "complaint-0024",
+    "complainDate": "2017/01/03 15:52",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 3
   },
   "25": {
-    "id": 25,
-    "seriesNo": "re-0025",
-    "complainDate": "2014/3/17 08:38",
-    "company": "流亞",
-    "process": 1
+    "seriesNo": "complaint-0025",
+    "complainDate": "2016/09/14 19:24",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 2
   },
   "26": {
-    "id": 26,
-    "seriesNo": "re-0026",
-    "complainDate": "2015/12/31 07:42",
+    "seriesNo": "complaint-0026",
+    "complainDate": "2017/02/11 19:54",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
-    "process": 4
+    "process": 6
   },
   "27": {
-    "id": 27,
-    "seriesNo": "re-0027",
-    "complainDate": "2018/1/12 18:47",
-    "company": "流亞",
+    "seriesNo": "complaint-0027",
+    "complainDate": "2018/01/07 15:18",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
     "process": 1
   },
   "28": {
-    "id": 28,
-    "seriesNo": "re-0028",
-    "complainDate": "2013/2/1 10:5",
+    "seriesNo": "complaint-0028",
+    "complainDate": "2015/09/08 03:11",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "亞磯",
     "process": 4
   },
   "29": {
-    "id": 29,
-    "seriesNo": "re-0029",
-    "complainDate": "2014/11/13 20:53",
+    "seriesNo": "complaint-0029",
+    "complainDate": "2014/02/10 14:07",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "亞磯",
     "process": 1
   },
   "30": {
-    "id": 30,
-    "seriesNo": "re-0030",
-    "complainDate": "2016/2/3 09:40",
+    "seriesNo": "complaint-0030",
+    "complainDate": "2018/10/06 05:51",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "亞磯",
-    "process": 1
+    "process": 4
   },
   "31": {
-    "id": 31,
-    "seriesNo": "re-0031",
-    "complainDate": "2019/1/15 10:58",
-    "company": "亞磯",
-    "process": 1
+    "seriesNo": "complaint-0031",
+    "complainDate": "2014/09/06 02:32",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 4
   },
   "32": {
-    "id": 32,
-    "seriesNo": "re-0032",
-    "complainDate": "2012/6/22 01:34",
+    "seriesNo": "complaint-0032",
+    "complainDate": "2013/11/03 03:41",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "亞磯",
-    "process": 1
+    "process": 2
   },
   "33": {
-    "id": 33,
-    "seriesNo": "re-0033",
-    "complainDate": "2015/7/14 14:10",
-    "company": "流亞",
-    "process": 1
+    "seriesNo": "complaint-0033",
+    "complainDate": "2015/01/10 03:05",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 2
   },
   "34": {
-    "id": 34,
-    "seriesNo": "re-0034",
-    "complainDate": "2013/8/21 00:11",
-    "company": "亞磯",
-    "process": 4
-  },
-  "35": {
-    "id": 35,
-    "seriesNo": "re-0035",
-    "complainDate": "2018/9/19 12:24",
+    "seriesNo": "complaint-0034",
+    "complainDate": "2018/07/13 02:43",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
     "process": 1
   },
-  "36": {
-    "id": 36,
-    "seriesNo": "re-0036",
-    "complainDate": "2017/6/8 03:16",
-    "company": "亞磯",
+  "35": {
+    "seriesNo": "complaint-0035",
+    "complainDate": "2013/08/24 03:53",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
     "process": 4
   },
+  "36": {
+    "seriesNo": "complaint-0036",
+    "complainDate": "2017/05/12 00:48",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 3
+  },
   "37": {
-    "id": 37,
-    "seriesNo": "re-0037",
-    "complainDate": "2016/8/31 07:20",
-    "company": "流亞",
+    "seriesNo": "complaint-0037",
+    "complainDate": "2018/12/03 01:20",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
     "process": 1
   },
   "38": {
-    "id": 38,
-    "seriesNo": "re-0038",
-    "complainDate": "2016/3/29 00:7",
-    "company": "亞磯",
-    "process": 4
+    "seriesNo": "complaint-0038",
+    "complainDate": "2019/01/25 02:45",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 3
   },
   "39": {
-    "id": 39,
-    "seriesNo": "re-0039",
-    "complainDate": "2015/5/4 06:54",
-    "company": "亞磯",
+    "seriesNo": "complaint-0039",
+    "complainDate": "2018/10/25 15:43",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
     "process": 1
   },
   "40": {
-    "id": 40,
-    "seriesNo": "re-0040",
-    "complainDate": "2013/7/3 13:46",
-    "company": "流亞",
+    "seriesNo": "complaint-0040",
+    "complainDate": "2016/09/14 18:53",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
     "process": 4
   },
   "41": {
-    "id": 41,
-    "seriesNo": "re-0041",
-    "complainDate": "2016/10/15 23:31",
-    "company": "流亞",
-    "process": 1
+    "seriesNo": "complaint-0041",
+    "complainDate": "2017/04/21 01:01",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 6
   },
   "42": {
-    "id": 42,
-    "seriesNo": "re-0042",
-    "complainDate": "2017/12/10 18:17",
-    "company": "亞磯",
-    "process": 1
-  },
-  "43": {
-    "id": 43,
-    "seriesNo": "re-0043",
-    "complainDate": "2013/4/11 18:39",
-    "company": "亞磯",
-    "process": 1
-  },
-  "44": {
-    "id": 44,
-    "seriesNo": "re-0044",
-    "complainDate": "2013/1/24 07:39",
+    "seriesNo": "complaint-0042",
+    "complainDate": "2016/01/09 04:42",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
     "process": 4
   },
+  "43": {
+    "seriesNo": "complaint-0043",
+    "complainDate": "2016/12/17 14:38",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 4
+  },
+  "44": {
+    "seriesNo": "complaint-0044",
+    "complainDate": "2015/02/05 10:40",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 4
+  },
   "45": {
-    "id": 45,
-    "seriesNo": "re-0045",
-    "complainDate": "2017/7/12 09:16",
+    "seriesNo": "complaint-0045",
+    "complainDate": "2016/05/29 02:53",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
     "process": 1
   },
   "46": {
-    "id": 46,
-    "seriesNo": "re-0046",
-    "complainDate": "2016/1/9 22:58",
-    "company": "亞磯",
-    "process": 4
+    "seriesNo": "complaint-0046",
+    "complainDate": "2015/01/29 17:41",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 1
   },
   "47": {
-    "id": 47,
-    "seriesNo": "re-0047",
-    "complainDate": "2017/1/10 12:43",
-    "company": "流亞",
-    "process": 1
+    "seriesNo": "complaint-0047",
+    "complainDate": "2019/01/16 03:06",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 5
   },
   "48": {
-    "id": 48,
-    "seriesNo": "re-0048",
-    "complainDate": "2015/4/12 00:28",
+    "seriesNo": "complaint-0048",
+    "complainDate": "2014/04/21 14:41",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "亞磯",
+    "process": 4
+  },
+  "49": {
+    "seriesNo": "complaint-0049",
+    "complainDate": "2016/04/06 00:16",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
     "company": "流亞",
     "process": 1
   },
-  "49": {
-    "id": 49,
-    "seriesNo": "re-0049",
-    "complainDate": "2016/3/9 22:17",
-    "company": "流亞",
-    "process": 4
-  },
   "50": {
-    "id": 50,
-    "seriesNo": "re-0050",
-    "complainDate": "2017/8/20 07:53",
-    "company": "亞磯",
-    "process": 4
+    "seriesNo": "complaint-0050",
+    "complainDate": "2013/08/06 06:54",
+    "customerName": "紡織所雲林分部",
+    "customerPhone": "055519899",
+    "customerAddress": "64057 雲林縣斗六市科加路20s號",
+    "company": "流亞",
+    "process": 1
   }
 }
