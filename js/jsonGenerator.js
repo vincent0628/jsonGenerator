@@ -1,21 +1,31 @@
 $(function () {
+    $('#repair').on('click', function(){
+        let data='repair';
+        let jsonFile=print(data);
+        $("#go").text(JSON.stringify(jsonFile));
+    });
+    $('#change').on('click', function(){
+        let data='change';
+        let jsonFile=print(data);
+        $("#go").text(JSON.stringify(jsonFile));
+    });
+    $('#complaint').on('click', function(){
+        let data='complaint';
+        let jsonFile=print(data);
+        $("#go").text(JSON.stringify(jsonFile));
+    });
+    $('#tank').on('click', function(){
+        let data='tank';
+        let jsonFile=print(data);
+        $("#go").text(JSON.stringify(jsonFile));
+    });
+});
+
+
+function print(data) {
     let oldDate = new Date(2015, 0, 1);
     let todayDate = new Date();
     let jsonFile = {};
-    let data='repair';
-    // window.open('http://www.google.com','GoogleWindow')
-    $('#repair').on('click', function(){
-        data='repair';
-    });
-    $('#change').on('click', function(){
-        data='change';
-    });
-    $('#complaint').on('click', function(){
-        data='complaint';
-    });
-    $('#tank').on('click', function(){
-        data='tank';
-    });
     for (let i = 1; i <= 50; i++) {
         let seriesNoTailPad = ("000" + i);
         let seriesNoTail = seriesNoTailPad.substr(length - 4);
@@ -48,11 +58,11 @@ $(function () {
             let machineNoTailPad = ("000" + randomArray[index]);
             let machineNoTail = machineNoTailPad.substr(length - 4);
             let machineNo = "machine-".concat(machineNoTail);
-            machine[machineNo]={comment:""};
+            machine[machineNo] = {comment: ""};
         });
         let id = "" + i;
 
-        if(data === 'repair') {
+        if (data === 'repair') {
             /////////////////////////////////repair/////////////////////////////
             let seriesNo = "repair-".concat(seriesNoTail);
             let repairDetail = {
@@ -77,9 +87,7 @@ $(function () {
             id = "" + i;
             jsonFile[id] = repairDetail;
             ////////////////////////////////////////////////////////////////////
-        }
-        else if(data === 'change')
-        {
+        } else if (data === 'change') {
             /////////////////////////////////change/////////////////////////////
             let seriesNo = "change-".concat(seriesNoTail);
             let changeDetail = {
@@ -104,9 +112,7 @@ $(function () {
             id = "" + i;
             jsonFile[id] = changeDetail;
             ////////////////////////////////////////////////////////////////////}
-        }
-        else if(data === 'complaint')
-        {
+        } else if (data === 'complaint') {
             /////////////////////////////////complaint//////////////////////////
             let complaintDetail = {
                 "1": {
@@ -140,18 +146,16 @@ $(function () {
                     "complaintReply": "經處理，已派另外的技師處理，費用照付，但多算一次保養"
                 },
             };
-            jsonFile= complaintDetail;
+            jsonFile = complaintDetail;
             ////////////////////////////////////////////////////////////////////
-        }
-        else if(data === 'tank')
-        {
+        } else if (data === 'tank') {
             /////////////////////////////////tank///////////////////////////////
             let seriesNo = "tank-".concat(seriesNoTail);
             let tankDetail = {
                 "seriesNo": seriesNo,
                 "clientNo": "865309928",
                 "clientName": "紡織所雲林廠",
-                "tankDate": getDate(repairDate)+" "+getTime(repairDate),
+                "tankDate": getDate(repairDate) + " " + getTime(repairDate),
                 "company": company,
                 "repairLevel": 1,
                 "startDate": startDate,
@@ -171,10 +175,8 @@ $(function () {
             ////////////////////////////////////////////////////////////////////
         }
     }
-// language=JQuery-CSS
-    $("#go").text(JSON.stringify(jsonFile));
-});
-
+    return jsonFile;
+}
 function getDate(date) {
     let yyyy = date.getFullYear();
     let MM = date.getMonth() + 1;
