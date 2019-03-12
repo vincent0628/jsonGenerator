@@ -1,152 +1,4102 @@
 {
   "machine-0001": {
-    "info": "染布機0001"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0002": {
-    "info": "染布機0002"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0003": {
-    "info": "染布機0003"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0004": {
-    "info": "染布機0004"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0005": {
-    "info": "染布機0005"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0006": {
-    "info": "染布機0006"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0007": {
-    "info": "染布機0007"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0008": {
-    "info": "染布機0008"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0009": {
-    "info": "染布機0009"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0010": {
-    "info": "染布機00010"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0011": {
-    "info": "染布機00011"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0012": {
-    "info": "染布機00012"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0013": {
-    "info": "染布機00013"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0014": {
-    "info": "染布機00014"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0015": {
-    "info": "染布機00015"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0016": {
-    "info": "染布機00016"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0017": {
-    "info": "染布機00017"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0018": {
-    "info": "染布機00018"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0019": {
-    "info": "染布機00019"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0020": {
-    "info": "染布機00020"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0021": {
-    "info": "染布機00021"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0022": {
-    "info": "染布機00022"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0023": {
-    "info": "染布機00023"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0024": {
-    "info": "染布機00024"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0025": {
-    "info": "染布機00025"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0026": {
-    "info": "染布機00026"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0027": {
-    "info": "染布機00027"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0028": {
-    "info": "染布機00028"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0029": {
-    "info": "染布機00029"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0030": {
-    "info": "染布機00030"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0031": {
-    "info": "染布機00031"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0032": {
-    "info": "染布機00032"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0033": {
-    "info": "染布機00033"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0034": {
-    "info": "染布機00034"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0035": {
-    "info": "染布機00035"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0036": {
-    "info": "染布機00036"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0037": {
-    "info": "染布機00037"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0038": {
-    "info": "染布機00038"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0039": {
-    "info": "染布機00039"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0040": {
-    "info": "染布機00040"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0041": {
-    "info": "染布機00041"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0042": {
-    "info": "染布機00042"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0043": {
-    "info": "染布機00043"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0044": {
-    "info": "染布機00044"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0045": {
-    "info": "染布機00045"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0046": {
-    "info": "染布機00046"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0047": {
-    "info": "染布機00047"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0048": {
-    "info": "染布機00048"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0049": {
-    "info": "染布機00049"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   },
   "machine-0050": {
-    "info": "染布機00050"
+    "1": {
+      "serialNo": "AK-DSL250",
+      "name": "AK-DSL250染色機"
+    },
+    "2": {
+      "serialNo": "AK-DSL500",
+      "name": "AK-DSL500染色機"
+    },
+    "3": {
+      "serialNo": "AK-DSL1000",
+      "name": "AK-DSL1000染色機"
+    },
+    "4": {
+      "serialNo": "AK-SL100",
+      "name": "AK-SL100雙液流染色機"
+    },
+    "5": {
+      "serialNo": "AK-SL250",
+      "name": "AK-SL250雙液流染色機"
+    },
+    "6": {
+      "serialNo": "AK-SL500",
+      "name": "AK-SL500雙液流染色機"
+    },
+    "7": {
+      "serialNo": "AK-SL1000",
+      "name": "AK-SL1000雙液流染色機"
+    },
+    "8": {
+      "serialNo": "AK-ISL300",
+      "name": "AK-ISL300雙液流染色機"
+    },
+    "9": {
+      "serialNo": "AK-ISL600",
+      "name": "AK-ISL600雙液流染色機"
+    },
+    "10": {
+      "serialNo": "AK-ISL1200",
+      "name": "AK-ISL1200雙液流染色機"
+    },
+    "11": {
+      "serialNo": "AK-REO 1T",
+      "name": "AK-REO 1T常溫染色機"
+    },
+    "12": {
+      "serialNo": "AK-REO 2T",
+      "name": "AK-REO 2T常溫染色機"
+    },
+    "13": {
+      "serialNo": "AK-REO 3T",
+      "name": "AK-REO 3T常溫染色機"
+    },
+    "14": {
+      "serialNo": "AK-REO 4T",
+      "name": "AK-REO 4T常溫染色機"
+    },
+    "15": {
+      "serialNo": "AK-REO 6T",
+      "name": "AK-REO 6T常溫染色機"
+    },
+    "16": {
+      "serialNo": "AK-REO 8T",
+      "name": "AK-REO 8T常溫染色機"
+    },
+    "17": {
+      "serialNo": "AK-QAO 250",
+      "name": "AK-QAO 250液流染色機"
+    },
+    "18": {
+      "serialNo": "AK-QAO 500",
+      "name": "AK-QAO 500液流染色機"
+    },
+    "19": {
+      "serialNo": "AK-QAO 1000",
+      "name": "AK-QAO 1000液流染色機"
+    },
+    "20": {
+      "serialNo": "AK-QAO 1500",
+      "name": "AK-QAO 1500液流染色機"
+    }
   }
 }
