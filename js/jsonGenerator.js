@@ -3,10 +3,19 @@ $(function () {
     let todayDate = new Date();
     let jsonFile = {};
     let data='repair';
-    // let data='change';
-    // let data='complaint';
-    // let data='tank';
-
+    // window.open('http://www.google.com','GoogleWindow')
+    $('#repair').on('click', function(){
+        data='repair';
+    });
+    $('#change').on('click', function(){
+        data='change';
+    });
+    $('#complaint').on('click', function(){
+        data='complaint';
+    });
+    $('#tank').on('click', function(){
+        data='tank';
+    });
     for (let i = 1; i <= 50; i++) {
         let seriesNoTailPad = ("000" + i);
         let seriesNoTail = seriesNoTailPad.substr(length - 4);

@@ -88,9 +88,11 @@ $(function () {
             }
         };
 
-        jsonFile[machinNo] = detail;
+        // jsonFile[machinNo] = detail;
+        jsonFile=detail;
     }
 // language=JQuery-CSS
+
     $("#go").text(JSON.stringify(jsonFile));
 });
 
