@@ -10,7 +10,7 @@ $(function () {
     for (let i = 1; i <= 50; i++) {
         let seriesNoTailPad = ("000" + i);
         let seriesNoTail = seriesNoTailPad.substr(length - 4);
-        let seriesNo = "re-".concat(seriesNoTail);
+        // let seriesNo = "re-".concat(seriesNoTail);
 
         // let repairDate = randomDate(oldDate, todayDate);
         let repairDaysRange = 30;
@@ -45,7 +45,7 @@ $(function () {
 
         if(data === 're') {
             /////////////////////////////////repair/////////////////////////////
-            seriesNo = "re-".concat(seriesNoTail);
+            let seriesNo = "re-".concat(seriesNoTail);
             let repairDetail = {
                 "seriesNo": seriesNo,
                 "clientNo": "865309928",
@@ -71,12 +71,12 @@ $(function () {
         else if(data === 'change')
         {
             /////////////////////////////////change/////////////////////////////
-            seriesNo = "change-".concat(seriesNoTail);
+            let seriesNo = "change-".concat(seriesNoTail);
             let changeDetail = {
                 "seriesNo": seriesNo,
                 "clientNo": "865309928",
                 "clientName": "紡織所雲林廠",
-                "repairDate": getDate(repairDate) + " " + getTime(repairDate),
+                "changeDate": getDate(repairDate) + " " + getTime(repairDate),
                 "company": company,
                 "repairLevel": 1,
                 "startDate": startDate,
@@ -97,24 +97,19 @@ $(function () {
         else if(data === 'complaint')
         {
             /////////////////////////////////complaint//////////////////////////
-            seriesNo = "complaint-".concat(seriesNoTail);
+            let seriesNo = "complaint-".concat(seriesNoTail);
             let complaintDetail = {
                 "seriesNo": seriesNo,
                 "clientNo": "865309928",
                 "clientName": "紡織所雲林廠",
-                "repairDate": getDate(repairDate) + " " + getTime(repairDate),
+                "complaintDate": getDate(repairDate) + " " + getTime(repairDate),
                 "company": company,
                 "repairLevel": 1,
-                "startDate": startDate,
-                "startTime": StartTime,
-                "endDate": endDate,
-                "endTime": endTime,
                 "clientTel": "055519899",
                 "clientAddress": "64057 雲林縣斗六市科加路20號",
                 "process": process,
                 "amount": amount,
                 "status": 1,
-                "machine": machineArray
             };
             id = "" + i;
             jsonFile[id] = complaintDetail;
@@ -128,7 +123,7 @@ $(function () {
                 "seriesNo": seriesNo,
                 "clientNo": "865309928",
                 "clientName": "紡織所雲林廠",
-                "repairDate": getDate(repairDate)+" "+getTime(repairDate),
+                "tankDate": getDate(repairDate)+" "+getTime(repairDate),
                 "company": company,
                 "repairLevel": 1,
                 "startDate": startDate,
