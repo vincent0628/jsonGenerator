@@ -3,1205 +3,1720 @@
     "seriesNo": "change-0001",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/01/13 06:44",
-    "company": "亞磯",
+    "changeDate": "2015/01/21 04:23",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/01/22",
-    "startTime": "17:36",
-    "endDate": "2015/01/31",
-    "endTime": "07:47",
+    "startDate": "2015/01/29",
+    "startTime": "07:03",
+    "endDate": "2015/02/05",
+    "endTime": "14:00",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
     "process": 1,
     "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0047",
-      "machine-0041",
-      "machine-0040",
-      "machine-0018",
-      "machine-0028"
-    ]
+    "machine": {
+      "machine-0003": {
+        "comment": ""
+      },
+      "machine-0037": {
+        "comment": ""
+      }
+    }
   },
   "2": {
     "seriesNo": "change-0002",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/01/15 17:38",
-    "company": "亞磯",
+    "changeDate": "2015/02/06 22:02",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/01/22",
-    "startTime": "18:23",
-    "endDate": "2015/01/31",
-    "endTime": "05:33",
+    "startDate": "2015/02/16",
+    "startTime": "21:30",
+    "endDate": "2015/02/26",
+    "endTime": "14:45",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 42828,
+    "process": 4,
+    "amount": 4076,
     "status": 1,
-    "machine": [
-      "machine-0048",
-      "machine-0003",
-      "machine-0010",
-      "machine-0002"
-    ]
+    "machine": {
+      "machine-0043": {
+        "comment": ""
+      }
+    }
   },
   "3": {
     "seriesNo": "change-0003",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/02/05 09:22",
-    "company": "亞磯",
+    "changeDate": "2015/03/04 09:54",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/02/15",
-    "startTime": "15:04",
-    "endDate": "2015/02/23",
-    "endTime": "16:22",
+    "startDate": "2015/03/11",
+    "startTime": "17:59",
+    "endDate": "2015/03/21",
+    "endTime": "10:45",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 6,
-    "amount": 45584,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0021",
-      "machine-0001",
-      "machine-0004",
-      "machine-0049",
-      "machine-0047",
-      "machine-0029",
-      "machine-0043"
-    ]
+    "machine": {
+      "machine-0041": {
+        "comment": ""
+      }
+    }
   },
   "4": {
     "seriesNo": "change-0004",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/02/17 18:15",
-    "company": "流亞",
+    "changeDate": "2015/03/12 09:46",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/02/25",
-    "startTime": "18:20",
-    "endDate": "2015/03/06",
-    "endTime": "01:47",
+    "startDate": "2015/03/22",
+    "startTime": "09:51",
+    "endDate": "2015/04/01",
+    "endTime": "19:24",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 5,
-    "amount": 4971,
+    "process": 3,
+    "amount": 45665,
     "status": 1,
-    "machine": [
-      "machine-0049",
-      "machine-0023",
-      "machine-0025",
-      "machine-0016"
-    ]
+    "machine": {
+      "machine-0007": {
+        "comment": ""
+      },
+      "machine-0016": {
+        "comment": ""
+      },
+      "machine-0034": {
+        "comment": ""
+      },
+      "machine-0002": {
+        "comment": ""
+      },
+      "machine-0001": {
+        "comment": ""
+      },
+      "machine-0015": {
+        "comment": ""
+      },
+      "machine-0005": {
+        "comment": ""
+      },
+      "machine-0049": {
+        "comment": ""
+      }
+    }
   },
   "5": {
     "seriesNo": "change-0005",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/03/01 14:15",
-    "company": "亞磯",
+    "changeDate": "2015/03/31 22:22",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/03/12",
-    "startTime": "02:45",
-    "endDate": "2015/03/20",
-    "endTime": "17:16",
+    "startDate": "2015/04/08",
+    "startTime": "05:27",
+    "endDate": "2015/04/17",
+    "endTime": "19:31",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 28917,
+    "process": 4,
+    "amount": 14197,
     "status": 1,
-    "machine": [
-      "machine-0026",
-      "machine-0030",
-      "machine-0021",
-      "machine-0029",
-      "machine-0006",
-      "machine-0033",
-      "machine-0039"
-    ]
+    "machine": {
+      "machine-0049": {
+        "comment": ""
+      },
+      "machine-0001": {
+        "comment": ""
+      },
+      "machine-0033": {
+        "comment": ""
+      },
+      "machine-0025": {
+        "comment": ""
+      },
+      "machine-0043": {
+        "comment": ""
+      },
+      "machine-0048": {
+        "comment": ""
+      },
+      "machine-0012": {
+        "comment": ""
+      }
+    }
   },
   "6": {
     "seriesNo": "change-0006",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/03/29 19:43",
-    "company": "流亞",
+    "changeDate": "2015/04/11 01:10",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/04/08",
-    "startTime": "20:39",
-    "endDate": "2015/04/17",
-    "endTime": "06:36",
+    "startDate": "2015/04/18",
+    "startTime": "13:35",
+    "endDate": "2015/04/28",
+    "endTime": "21:18",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
     "process": 4,
-    "amount": 9967,
+    "amount": 6092,
     "status": 1,
-    "machine": [
-      "machine-0031"
-    ]
+    "machine": {
+      "machine-0021": {
+        "comment": ""
+      },
+      "machine-0003": {
+        "comment": ""
+      },
+      "machine-0041": {
+        "comment": ""
+      },
+      "machine-0008": {
+        "comment": ""
+      },
+      "machine-0004": {
+        "comment": ""
+      },
+      "machine-0016": {
+        "comment": ""
+      }
+    }
   },
   "7": {
     "seriesNo": "change-0007",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/04/08 11:13",
+    "changeDate": "2015/04/27 15:01",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/04/17",
-    "startTime": "21:05",
-    "endDate": "2015/04/26",
-    "endTime": "11:02",
+    "startDate": "2015/05/05",
+    "startTime": "15:54",
+    "endDate": "2015/05/14",
+    "endTime": "21:32",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
     "process": 4,
-    "amount": 10214,
+    "amount": 23743,
     "status": 1,
-    "machine": [
-      "machine-0026",
-      "machine-0020",
-      "machine-0025",
-      "machine-0034",
-      "machine-0021",
-      "machine-0044",
-      "machine-0036",
-      "machine-0045"
-    ]
+    "machine": {
+      "machine-0036": {
+        "comment": ""
+      },
+      "machine-0021": {
+        "comment": ""
+      },
+      "machine-0002": {
+        "comment": ""
+      },
+      "machine-0034": {
+        "comment": ""
+      }
+    }
   },
   "8": {
     "seriesNo": "change-0008",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/04/13 22:51",
-    "company": "亞磯",
+    "changeDate": "2015/04/28 11:50",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/04/22",
-    "startTime": "02:19",
-    "endDate": "2015/05/01",
-    "endTime": "03:54",
+    "startDate": "2015/05/07",
+    "startTime": "19:36",
+    "endDate": "2015/05/16",
+    "endTime": "01:37",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 10531,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0041"
-    ]
+    "machine": {
+      "machine-0035": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      },
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0014": {
+        "comment": ""
+      },
+      "machine-0011": {
+        "comment": ""
+      },
+      "machine-0033": {
+        "comment": ""
+      }
+    }
   },
   "9": {
     "seriesNo": "change-0009",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/04/19 10:01",
-    "company": "流亞",
+    "changeDate": "2015/05/20 02:14",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/04/27",
-    "startTime": "05:13",
-    "endDate": "2015/05/07",
-    "endTime": "07:28",
+    "startDate": "2015/05/28",
+    "startTime": "19:10",
+    "endDate": "2015/06/08",
+    "endTime": "01:48",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 17322,
+    "process": 5,
+    "amount": 34700,
     "status": 1,
-    "machine": [
-      "machine-0002",
-      "machine-0009",
-      "machine-0035",
-      "machine-0046",
-      "machine-0014",
-      "machine-0049",
-      "machine-0032"
-    ]
+    "machine": {
+      "machine-0049": {
+        "comment": ""
+      },
+      "machine-0016": {
+        "comment": ""
+      },
+      "machine-0018": {
+        "comment": ""
+      },
+      "machine-0047": {
+        "comment": ""
+      },
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0005": {
+        "comment": ""
+      }
+    }
   },
   "10": {
     "seriesNo": "change-0010",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/05/05 13:06",
+    "changeDate": "2015/06/08 18:55",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/05/16",
-    "startTime": "09:22",
-    "endDate": "2015/05/26",
-    "endTime": "01:42",
+    "startDate": "2015/06/19",
+    "startTime": "14:46",
+    "endDate": "2015/06/27",
+    "endTime": "04:54",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 48107,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0042",
-      "machine-0011",
-      "machine-0012",
-      "machine-0013",
-      "machine-0006"
-    ]
+    "machine": {
+      "machine-0023": {
+        "comment": ""
+      },
+      "machine-0019": {
+        "comment": ""
+      },
+      "machine-0045": {
+        "comment": ""
+      },
+      "machine-0004": {
+        "comment": ""
+      },
+      "machine-0047": {
+        "comment": ""
+      },
+      "machine-0028": {
+        "comment": ""
+      },
+      "machine-0043": {
+        "comment": ""
+      },
+      "machine-0013": {
+        "comment": ""
+      }
+    }
   },
   "11": {
     "seriesNo": "change-0011",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/05/16 07:33",
+    "changeDate": "2015/06/13 23:30",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/05/27",
-    "startTime": "00:47",
-    "endDate": "2015/06/05",
-    "endTime": "18:06",
+    "startDate": "2015/06/23",
+    "startTime": "23:56",
+    "endDate": "2015/07/04",
+    "endTime": "10:33",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 22819,
+    "process": 5,
+    "amount": 40768,
     "status": 1,
-    "machine": [
-      "machine-0011",
-      "machine-0028",
-      "machine-0035",
-      "machine-0048",
-      "machine-0019",
-      "machine-0042",
-      "machine-0023"
-    ]
+    "machine": {
+      "machine-0017": {
+        "comment": ""
+      },
+      "machine-0011": {
+        "comment": ""
+      },
+      "machine-0009": {
+        "comment": ""
+      },
+      "machine-0035": {
+        "comment": ""
+      }
+    }
   },
   "12": {
     "seriesNo": "change-0012",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/06/14 04:36",
+    "changeDate": "2015/07/10 17:41",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/06/24",
-    "startTime": "10:55",
-    "endDate": "2015/07/03",
-    "endTime": "20:44",
+    "startDate": "2015/07/21",
+    "startTime": "17:01",
+    "endDate": "2015/08/01",
+    "endTime": "01:51",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 35335,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0031",
-      "machine-0001",
-      "machine-0010",
-      "machine-0026",
-      "machine-0032"
-    ]
+    "machine": {
+      "machine-0003": {
+        "comment": ""
+      },
+      "machine-0037": {
+        "comment": ""
+      },
+      "machine-0032": {
+        "comment": ""
+      },
+      "machine-0006": {
+        "comment": ""
+      },
+      "machine-0022": {
+        "comment": ""
+      }
+    }
   },
   "13": {
     "seriesNo": "change-0013",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/07/12 07:39",
+    "changeDate": "2015/08/09 03:08",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/07/19",
-    "startTime": "09:46",
-    "endDate": "2015/07/30",
-    "endTime": "04:31",
+    "startDate": "2015/08/18",
+    "startTime": "07:24",
+    "endDate": "2015/08/28",
+    "endTime": "03:33",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
     "process": 4,
-    "amount": 14758,
+    "amount": 25346,
     "status": 1,
-    "machine": [
-      "machine-0050",
-      "machine-0030",
-      "machine-0035",
-      "machine-0036"
-    ]
+    "machine": {
+      "machine-0047": {
+        "comment": ""
+      },
+      "machine-0032": {
+        "comment": ""
+      },
+      "machine-0023": {
+        "comment": ""
+      },
+      "machine-0010": {
+        "comment": ""
+      },
+      "machine-0033": {
+        "comment": ""
+      },
+      "machine-0030": {
+        "comment": ""
+      },
+      "machine-0004": {
+        "comment": ""
+      },
+      "machine-0031": {
+        "comment": ""
+      }
+    }
   },
   "14": {
     "seriesNo": "change-0014",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/08/09 19:53",
+    "changeDate": "2015/09/05 07:44",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/08/18",
-    "startTime": "09:29",
-    "endDate": "2015/08/26",
-    "endTime": "08:38",
+    "startDate": "2015/09/15",
+    "startTime": "07:28",
+    "endDate": "2015/09/25",
+    "endTime": "17:56",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 27116,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0027"
-    ]
+    "machine": {
+      "machine-0012": {
+        "comment": ""
+      }
+    }
   },
   "15": {
     "seriesNo": "change-0015",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/08/14 11:22",
-    "company": "亞磯",
+    "changeDate": "2015/09/17 20:03",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/08/22",
-    "startTime": "15:57",
-    "endDate": "2015/08/31",
-    "endTime": "19:10",
+    "startDate": "2015/09/28",
+    "startTime": "16:14",
+    "endDate": "2015/10/09",
+    "endTime": "07:11",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 38197,
+    "process": 4,
+    "amount": 21091,
     "status": 1,
-    "machine": [
-      "machine-0031",
-      "machine-0028"
-    ]
+    "machine": {
+      "machine-0010": {
+        "comment": ""
+      },
+      "machine-0037": {
+        "comment": ""
+      },
+      "machine-0020": {
+        "comment": ""
+      }
+    }
   },
   "16": {
     "seriesNo": "change-0016",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/09/09 14:21",
+    "changeDate": "2015/10/06 20:03",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/09/19",
-    "startTime": "02:35",
-    "endDate": "2015/09/28",
-    "endTime": "11:28",
+    "startDate": "2015/10/16",
+    "startTime": "18:37",
+    "endDate": "2015/10/24",
+    "endTime": "05:04",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 43459,
+    "process": 5,
+    "amount": 43209,
     "status": 1,
-    "machine": [
-      "machine-0014",
-      "machine-0029",
-      "machine-0041",
-      "machine-0027",
-      "machine-0045",
-      "machine-0040",
-      "machine-0025"
-    ]
+    "machine": {
+      "machine-0048": {
+        "comment": ""
+      },
+      "machine-0006": {
+        "comment": ""
+      },
+      "machine-0012": {
+        "comment": ""
+      },
+      "machine-0005": {
+        "comment": ""
+      },
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0001": {
+        "comment": ""
+      },
+      "machine-0010": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      }
+    }
   },
   "17": {
     "seriesNo": "change-0017",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/10/03 07:36",
-    "company": "流亞",
+    "changeDate": "2015/11/02 02:16",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/10/14",
-    "startTime": "06:00",
-    "endDate": "2015/10/23",
-    "endTime": "16:07",
+    "startDate": "2015/11/13",
+    "startTime": "00:01",
+    "endDate": "2015/11/22",
+    "endTime": "02:59",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 24113,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0029",
-      "machine-0025",
-      "machine-0012",
-      "machine-0045",
-      "machine-0019",
-      "machine-0038",
-      "machine-0002",
-      "machine-0033"
-    ]
+    "machine": {
+      "machine-0023": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      }
+    }
   },
   "18": {
     "seriesNo": "change-0018",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/10/17 22:35",
-    "company": "亞磯",
+    "changeDate": "2015/11/30 13:24",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/10/25",
-    "startTime": "03:31",
-    "endDate": "2015/11/01",
-    "endTime": "21:49",
+    "startDate": "2015/12/09",
+    "startTime": "16:49",
+    "endDate": "2015/12/20",
+    "endTime": "05:42",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 6,
-    "amount": 7333,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0019",
-      "machine-0020",
-      "machine-0008",
-      "machine-0017"
-    ]
+    "machine": {
+      "machine-0003": {
+        "comment": ""
+      },
+      "machine-0049": {
+        "comment": ""
+      },
+      "machine-0033": {
+        "comment": ""
+      },
+      "machine-0011": {
+        "comment": ""
+      },
+      "machine-0025": {
+        "comment": ""
+      },
+      "machine-0016": {
+        "comment": ""
+      },
+      "machine-0027": {
+        "comment": ""
+      },
+      "machine-0009": {
+        "comment": ""
+      }
+    }
   },
   "19": {
     "seriesNo": "change-0019",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/11/02 23:32",
+    "changeDate": "2015/12/09 23:48",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/11/12",
-    "startTime": "11:08",
-    "endDate": "2015/11/21",
-    "endTime": "22:20",
+    "startDate": "2015/12/19",
+    "startTime": "01:31",
+    "endDate": "2015/12/30",
+    "endTime": "00:40",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 2,
+    "amount": 21109,
     "status": 1,
-    "machine": [
-      "machine-0014",
-      "machine-0048",
-      "machine-0027",
-      "machine-0031",
-      "machine-0017",
-      "machine-0038",
-      "machine-0026",
-      "machine-0032"
-    ]
+    "machine": {
+      "machine-0008": {
+        "comment": ""
+      },
+      "machine-0036": {
+        "comment": ""
+      },
+      "machine-0048": {
+        "comment": ""
+      },
+      "machine-0035": {
+        "comment": ""
+      },
+      "machine-0020": {
+        "comment": ""
+      },
+      "machine-0014": {
+        "comment": ""
+      },
+      "machine-0001": {
+        "comment": ""
+      }
+    }
   },
   "20": {
     "seriesNo": "change-0020",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/11/06 08:17",
+    "changeDate": "2016/01/05 17:16",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/11/15",
-    "startTime": "15:44",
-    "endDate": "2015/11/25",
-    "endTime": "16:10",
+    "startDate": "2016/01/16",
+    "startTime": "03:01",
+    "endDate": "2016/01/24",
+    "endTime": "12:42",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 4,
+    "amount": 22785,
     "status": 1,
-    "machine": [
-      "machine-0036",
-      "machine-0043",
-      "machine-0001",
-      "machine-0035",
-      "machine-0011",
-      "machine-0026"
-    ]
+    "machine": {
+      "machine-0019": {
+        "comment": ""
+      },
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0011": {
+        "comment": ""
+      }
+    }
   },
   "21": {
     "seriesNo": "change-0021",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/11/24 08:25",
+    "changeDate": "2016/01/16 02:25",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/12/01",
-    "startTime": "13:52",
-    "endDate": "2015/12/11",
-    "endTime": "18:25",
+    "startDate": "2016/01/25",
+    "startTime": "07:49",
+    "endDate": "2016/02/01",
+    "endTime": "19:23",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 4,
+    "amount": 18676,
     "status": 1,
-    "machine": [
-      "machine-0024",
-      "machine-0036",
-      "machine-0027",
-      "machine-0030",
-      "machine-0045"
-    ]
+    "machine": {
+      "machine-0002": {
+        "comment": ""
+      },
+      "machine-0044": {
+        "comment": ""
+      },
+      "machine-0009": {
+        "comment": ""
+      },
+      "machine-0011": {
+        "comment": ""
+      },
+      "machine-0020": {
+        "comment": ""
+      }
+    }
   },
   "22": {
     "seriesNo": "change-0022",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/11/26 15:16",
-    "company": "亞磯",
+    "changeDate": "2016/02/10 14:26",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/12/06",
-    "startTime": "15:39",
-    "endDate": "2015/12/16",
-    "endTime": "08:20",
+    "startDate": "2016/02/18",
+    "startTime": "23:06",
+    "endDate": "2016/02/27",
+    "endTime": "21:16",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 33253,
+    "process": 5,
+    "amount": 39811,
     "status": 1,
-    "machine": [
-      "machine-0042",
-      "machine-0047"
-    ]
+    "machine": {
+      "machine-0001": {
+        "comment": ""
+      },
+      "machine-0002": {
+        "comment": ""
+      },
+      "machine-0048": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      },
+      "machine-0003": {
+        "comment": ""
+      },
+      "machine-0007": {
+        "comment": ""
+      },
+      "machine-0037": {
+        "comment": ""
+      },
+      "machine-0023": {
+        "comment": ""
+      }
+    }
   },
   "23": {
     "seriesNo": "change-0023",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/12/10 08:05",
+    "changeDate": "2016/02/27 09:44",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/12/20",
-    "startTime": "11:03",
-    "endDate": "2015/12/30",
-    "endTime": "22:37",
+    "startDate": "2016/03/06",
+    "startTime": "16:18",
+    "endDate": "2016/03/14",
+    "endTime": "16:30",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 49017,
+    "process": 3,
+    "amount": 23954,
     "status": 1,
-    "machine": [
-      "machine-0033",
-      "machine-0011",
-      "machine-0004",
-      "machine-0014"
-    ]
+    "machine": {
+      "machine-0038": {
+        "comment": ""
+      },
+      "machine-0005": {
+        "comment": ""
+      },
+      "machine-0048": {
+        "comment": ""
+      }
+    }
   },
   "24": {
     "seriesNo": "change-0024",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/12/23 20:02",
-    "company": "亞磯",
+    "changeDate": "2016/03/16 18:56",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/12/31",
-    "startTime": "01:37",
-    "endDate": "2016/01/10",
-    "endTime": "16:40",
+    "startDate": "2016/03/26",
+    "startTime": "10:40",
+    "endDate": "2016/04/03",
+    "endTime": "15:45",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 12349,
+    "process": 4,
+    "amount": 36036,
     "status": 1,
-    "machine": [
-      "machine-0012",
-      "machine-0049",
-      "machine-0033",
-      "machine-0045",
-      "machine-0009",
-      "machine-0026",
-      "machine-0006"
-    ]
+    "machine": {
+      "machine-0046": {
+        "comment": ""
+      },
+      "machine-0001": {
+        "comment": ""
+      },
+      "machine-0027": {
+        "comment": ""
+      },
+      "machine-0019": {
+        "comment": ""
+      }
+    }
   },
   "25": {
     "seriesNo": "change-0025",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/12/29 12:44",
-    "company": "流亞",
+    "changeDate": "2016/03/28 08:19",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/01/08",
-    "startTime": "13:16",
-    "endDate": "2016/01/16",
-    "endTime": "08:11",
+    "startDate": "2016/04/05",
+    "startTime": "15:33",
+    "endDate": "2016/04/15",
+    "endTime": "10:21",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 23286,
+    "process": 5,
+    "amount": 26512,
     "status": 1,
-    "machine": [
-      "machine-0039",
-      "machine-0046",
-      "machine-0014",
-      "machine-0038",
-      "machine-0040"
-    ]
+    "machine": {
+      "machine-0038": {
+        "comment": ""
+      },
+      "machine-0043": {
+        "comment": ""
+      }
+    }
   },
   "26": {
     "seriesNo": "change-0026",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/01/14 02:51",
+    "changeDate": "2016/04/21 17:12",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/01/23",
-    "startTime": "01:48",
-    "endDate": "2016/01/30",
-    "endTime": "07:34",
+    "startDate": "2016/05/01",
+    "startTime": "22:14",
+    "endDate": "2016/05/11",
+    "endTime": "10:36",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 48201,
+    "process": 3,
+    "amount": 26309,
     "status": 1,
-    "machine": [
-      "machine-0040",
-      "machine-0016",
-      "machine-0009"
-    ]
+    "machine": {
+      "machine-0006": {
+        "comment": ""
+      },
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0033": {
+        "comment": ""
+      },
+      "machine-0042": {
+        "comment": ""
+      }
+    }
   },
   "27": {
     "seriesNo": "change-0027",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/01/18 17:39",
+    "changeDate": "2016/04/26 15:06",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/01/26",
-    "startTime": "09:26",
-    "endDate": "2016/02/04",
-    "endTime": "10:30",
+    "startDate": "2016/05/05",
+    "startTime": "08:44",
+    "endDate": "2016/05/16",
+    "endTime": "03:16",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 3,
+    "amount": 2639,
     "status": 1,
-    "machine": [
-      "machine-0034",
-      "machine-0031",
-      "machine-0001",
-      "machine-0002",
-      "machine-0007",
-      "machine-0027",
-      "machine-0006",
-      "machine-0032"
-    ]
+    "machine": {
+      "machine-0008": {
+        "comment": ""
+      }
+    }
   },
   "28": {
     "seriesNo": "change-0028",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/02/14 05:43",
+    "changeDate": "2016/05/14 00:34",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/02/22",
-    "startTime": "14:27",
-    "endDate": "2016/03/04",
-    "endTime": "10:08",
+    "startDate": "2016/05/24",
+    "startTime": "19:54",
+    "endDate": "2016/06/03",
+    "endTime": "22:48",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
     "process": 4,
-    "amount": 28981,
+    "amount": 5452,
     "status": 1,
-    "machine": [
-      "machine-0003",
-      "machine-0002",
-      "machine-0010",
-      "machine-0016",
-      "machine-0020"
-    ]
+    "machine": {
+      "machine-0009": {
+        "comment": ""
+      },
+      "machine-0020": {
+        "comment": ""
+      },
+      "machine-0011": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      },
+      "machine-0003": {
+        "comment": ""
+      },
+      "machine-0015": {
+        "comment": ""
+      }
+    }
   },
   "29": {
     "seriesNo": "change-0029",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/03/12 17:48",
+    "changeDate": "2016/06/10 16:41",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/03/21",
-    "startTime": "13:41",
-    "endDate": "2016/03/31",
-    "endTime": "08:46",
+    "startDate": "2016/06/21",
+    "startTime": "09:35",
+    "endDate": "2016/06/28",
+    "endTime": "17:33",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
     "process": 4,
-    "amount": 26748,
+    "amount": 21596,
     "status": 1,
-    "machine": [
-      "machine-0032",
-      "machine-0016",
-      "machine-0006"
-    ]
+    "machine": {
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0007": {
+        "comment": ""
+      },
+      "machine-0019": {
+        "comment": ""
+      },
+      "machine-0034": {
+        "comment": ""
+      },
+      "machine-0044": {
+        "comment": ""
+      },
+      "machine-0041": {
+        "comment": ""
+      },
+      "machine-0005": {
+        "comment": ""
+      }
+    }
   },
   "30": {
     "seriesNo": "change-0030",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/03/22 10:53",
+    "changeDate": "2016/06/19 21:36",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/03/31",
-    "startTime": "16:27",
-    "endDate": "2016/04/09",
-    "endTime": "15:47",
+    "startDate": "2016/06/29",
+    "startTime": "10:27",
+    "endDate": "2016/07/07",
+    "endTime": "00:09",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 6,
-    "amount": 21776,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0014",
-      "machine-0009",
-      "machine-0024",
-      "machine-0048",
-      "machine-0040",
-      "machine-0003",
-      "machine-0032"
-    ]
+    "machine": {
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0030": {
+        "comment": ""
+      },
+      "machine-0004": {
+        "comment": ""
+      }
+    }
   },
   "31": {
     "seriesNo": "change-0031",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/04/11 05:26",
+    "changeDate": "2016/06/24 10:27",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/04/19",
-    "startTime": "06:33",
-    "endDate": "2016/04/27",
-    "endTime": "23:25",
+    "startDate": "2016/07/03",
+    "startTime": "07:16",
+    "endDate": "2016/07/12",
+    "endTime": "10:44",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 25965,
+    "process": 5,
+    "amount": 23389,
     "status": 1,
-    "machine": [
-      "machine-0041",
-      "machine-0004",
-      "machine-0044",
-      "machine-0019",
-      "machine-0036"
-    ]
+    "machine": {
+      "machine-0022": {
+        "comment": ""
+      },
+      "machine-0046": {
+        "comment": ""
+      },
+      "machine-0011": {
+        "comment": ""
+      },
+      "machine-0007": {
+        "comment": ""
+      },
+      "machine-0028": {
+        "comment": ""
+      }
+    }
   },
   "32": {
     "seriesNo": "change-0032",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/05/03 03:17",
-    "company": "亞磯",
+    "changeDate": "2016/07/03 15:10",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/05/13",
-    "startTime": "14:53",
-    "endDate": "2016/05/21",
-    "endTime": "23:50",
+    "startDate": "2016/07/14",
+    "startTime": "08:29",
+    "endDate": "2016/07/25",
+    "endTime": "04:12",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 11377,
+    "process": 6,
+    "amount": 19071,
     "status": 1,
-    "machine": [
-      "machine-0020",
-      "machine-0042",
-      "machine-0045",
-      "machine-0037",
-      "machine-0040",
-      "machine-0011",
-      "machine-0030"
-    ]
+    "machine": {
+      "machine-0030": {
+        "comment": ""
+      },
+      "machine-0002": {
+        "comment": ""
+      }
+    }
   },
   "33": {
     "seriesNo": "change-0033",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/05/04 02:10",
+    "changeDate": "2016/07/11 19:56",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/05/11",
-    "startTime": "19:56",
-    "endDate": "2016/05/19",
-    "endTime": "21:58",
+    "startDate": "2016/07/21",
+    "startTime": "13:12",
+    "endDate": "2016/07/31",
+    "endTime": "11:53",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 4,
+    "amount": 17345,
     "status": 1,
-    "machine": [
-      "machine-0041",
-      "machine-0037",
-      "machine-0045",
-      "machine-0006",
-      "machine-0028",
-      "machine-0047",
-      "machine-0024"
-    ]
+    "machine": {
+      "machine-0016": {
+        "comment": ""
+      }
+    }
   },
   "34": {
     "seriesNo": "change-0034",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/05/16 14:32",
-    "company": "亞磯",
+    "changeDate": "2016/07/23 13:36",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/05/27",
-    "startTime": "03:10",
-    "endDate": "2016/06/04",
-    "endTime": "02:46",
+    "startDate": "2016/07/31",
+    "startTime": "20:37",
+    "endDate": "2016/08/09",
+    "endTime": "03:40",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 2,
+    "amount": 2386,
     "status": 1,
-    "machine": [
-      "machine-0018",
-      "machine-0048",
-      "machine-0001",
-      "machine-0015",
-      "machine-0049",
-      "machine-0008",
-      "machine-0012",
-      "machine-0024"
-    ]
+    "machine": {
+      "machine-0043": {
+        "comment": ""
+      },
+      "machine-0044": {
+        "comment": ""
+      },
+      "machine-0021": {
+        "comment": ""
+      },
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0027": {
+        "comment": ""
+      },
+      "machine-0003": {
+        "comment": ""
+      },
+      "machine-0023": {
+        "comment": ""
+      },
+      "machine-0005": {
+        "comment": ""
+      }
+    }
   },
   "35": {
     "seriesNo": "change-0035",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/06/12 22:54",
+    "changeDate": "2016/08/06 01:41",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/06/23",
-    "startTime": "04:14",
-    "endDate": "2016/07/03",
-    "endTime": "05:26",
+    "startDate": "2016/08/13",
+    "startTime": "12:03",
+    "endDate": "2016/08/20",
+    "endTime": "17:43",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
     "process": 1,
     "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0013",
-      "machine-0034",
-      "machine-0039"
-    ]
+    "machine": {
+      "machine-0039": {
+        "comment": ""
+      },
+      "machine-0042": {
+        "comment": ""
+      }
+    }
   },
   "36": {
     "seriesNo": "change-0036",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/06/15 17:11",
-    "company": "亞磯",
+    "changeDate": "2016/08/15 22:28",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/06/23",
-    "startTime": "03:15",
-    "endDate": "2016/07/01",
-    "endTime": "19:40",
+    "startDate": "2016/08/25",
+    "startTime": "22:43",
+    "endDate": "2016/09/05",
+    "endTime": "05:26",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
     "process": 4,
-    "amount": 20212,
+    "amount": 27010,
     "status": 1,
-    "machine": [
-      "machine-0035",
-      "machine-0025",
-      "machine-0033",
-      "machine-0036",
-      "machine-0027",
-      "machine-0049",
-      "machine-0013",
-      "machine-0039"
-    ]
+    "machine": {
+      "machine-0042": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      },
+      "machine-0033": {
+        "comment": ""
+      },
+      "machine-0015": {
+        "comment": ""
+      },
+      "machine-0035": {
+        "comment": ""
+      },
+      "machine-0017": {
+        "comment": ""
+      },
+      "machine-0044": {
+        "comment": ""
+      }
+    }
   },
   "37": {
     "seriesNo": "change-0037",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/07/07 05:20",
+    "changeDate": "2016/08/18 13:48",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/07/16",
-    "startTime": "14:12",
-    "endDate": "2016/07/27",
-    "endTime": "01:51",
+    "startDate": "2016/08/26",
+    "startTime": "11:17",
+    "endDate": "2016/09/02",
+    "endTime": "22:22",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 29946,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0043",
-      "machine-0022",
-      "machine-0013",
-      "machine-0030",
-      "machine-0033"
-    ]
+    "machine": {
+      "machine-0005": {
+        "comment": ""
+      },
+      "machine-0018": {
+        "comment": ""
+      }
+    }
   },
   "38": {
     "seriesNo": "change-0038",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/07/31 06:00",
-    "company": "亞磯",
+    "changeDate": "2016/09/01 13:15",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/08/07",
-    "startTime": "16:10",
-    "endDate": "2016/08/15",
-    "endTime": "18:01",
+    "startDate": "2016/09/09",
+    "startTime": "10:12",
+    "endDate": "2016/09/17",
+    "endTime": "22:56",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 7061,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0020",
-      "machine-0038"
-    ]
+    "machine": {
+      "machine-0001": {
+        "comment": ""
+      },
+      "machine-0044": {
+        "comment": ""
+      },
+      "machine-0008": {
+        "comment": ""
+      },
+      "machine-0010": {
+        "comment": ""
+      }
+    }
   },
   "39": {
     "seriesNo": "change-0039",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/08/26 23:49",
+    "changeDate": "2016/09/08 11:50",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/09/06",
-    "startTime": "18:16",
-    "endDate": "2016/09/15",
-    "endTime": "17:05",
+    "startDate": "2016/09/18",
+    "startTime": "15:06",
+    "endDate": "2016/09/28",
+    "endTime": "19:42",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 3,
+    "amount": 27032,
     "status": 1,
-    "machine": [
-      "machine-0036",
-      "machine-0044"
-    ]
+    "machine": {
+      "machine-0024": {
+        "comment": ""
+      },
+      "machine-0034": {
+        "comment": ""
+      },
+      "machine-0030": {
+        "comment": ""
+      },
+      "machine-0008": {
+        "comment": ""
+      },
+      "machine-0025": {
+        "comment": ""
+      },
+      "machine-0050": {
+        "comment": ""
+      }
+    }
   },
   "40": {
     "seriesNo": "change-0040",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/09/08 19:57",
+    "changeDate": "2016/09/30 23:05",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/09/17",
-    "startTime": "04:34",
-    "endDate": "2016/09/28",
-    "endTime": "02:15",
+    "startDate": "2016/10/10",
+    "startTime": "02:18",
+    "endDate": "2016/10/17",
+    "endTime": "21:48",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 3,
+    "amount": 22095,
     "status": 1,
-    "machine": [
-      "machine-0014",
-      "machine-0018",
-      "machine-0035",
-      "machine-0034",
-      "machine-0011",
-      "machine-0036",
-      "machine-0005"
-    ]
+    "machine": {
+      "machine-0025": {
+        "comment": ""
+      },
+      "machine-0044": {
+        "comment": ""
+      },
+      "machine-0021": {
+        "comment": ""
+      },
+      "machine-0014": {
+        "comment": ""
+      },
+      "machine-0045": {
+        "comment": ""
+      },
+      "machine-0035": {
+        "comment": ""
+      }
+    }
   },
   "41": {
     "seriesNo": "change-0041",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/09/19 03:44",
-    "company": "亞磯",
+    "changeDate": "2016/10/15 15:31",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/09/26",
-    "startTime": "05:36",
-    "endDate": "2016/10/06",
-    "endTime": "02:57",
+    "startDate": "2016/10/24",
+    "startTime": "04:22",
+    "endDate": "2016/11/01",
+    "endTime": "09:36",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 30608,
+    "process": 5,
+    "amount": 18692,
     "status": 1,
-    "machine": [
-      "machine-0020",
-      "machine-0003",
-      "machine-0034"
-    ]
+    "machine": {
+      "machine-0036": {
+        "comment": ""
+      },
+      "machine-0038": {
+        "comment": ""
+      },
+      "machine-0046": {
+        "comment": ""
+      }
+    }
   },
   "42": {
     "seriesNo": "change-0042",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/10/10 17:42",
-    "company": "流亞",
+    "changeDate": "2016/10/23 08:39",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/10/19",
-    "startTime": "01:11",
-    "endDate": "2016/10/26",
-    "endTime": "10:42",
+    "startDate": "2016/10/30",
+    "startTime": "11:49",
+    "endDate": "2016/11/08",
+    "endTime": "05:01",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 3,
+    "amount": 26291,
     "status": 1,
-    "machine": [
-      "machine-0041",
-      "machine-0039",
-      "machine-0003",
-      "machine-0035"
-    ]
+    "machine": {
+      "machine-0023": {
+        "comment": ""
+      },
+      "machine-0042": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      },
+      "machine-0033": {
+        "comment": ""
+      },
+      "machine-0001": {
+        "comment": ""
+      },
+      "machine-0026": {
+        "comment": ""
+      },
+      "machine-0019": {
+        "comment": ""
+      },
+      "machine-0031": {
+        "comment": ""
+      }
+    }
   },
   "43": {
     "seriesNo": "change-0043",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/10/27 00:22",
-    "company": "流亞",
+    "changeDate": "2016/11/13 06:47",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/11/05",
-    "startTime": "11:22",
-    "endDate": "2016/11/15",
-    "endTime": "02:55",
+    "startDate": "2016/11/22",
+    "startTime": "19:08",
+    "endDate": "2016/12/02",
+    "endTime": "23:07",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 6,
-    "amount": 49894,
+    "process": 5,
+    "amount": 33554,
     "status": 1,
-    "machine": [
-      "machine-0003",
-      "machine-0047",
-      "machine-0009",
-      "machine-0029"
-    ]
+    "machine": {
+      "machine-0032": {
+        "comment": ""
+      },
+      "machine-0014": {
+        "comment": ""
+      },
+      "machine-0041": {
+        "comment": ""
+      }
+    }
   },
   "44": {
     "seriesNo": "change-0044",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/11/10 16:37",
-    "company": "流亞",
+    "changeDate": "2016/11/19 23:21",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/11/19",
-    "startTime": "21:49",
-    "endDate": "2016/11/27",
-    "endTime": "11:46",
+    "startDate": "2016/11/27",
+    "startTime": "17:02",
+    "endDate": "2016/12/08",
+    "endTime": "10:23",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 21424,
+    "process": 3,
+    "amount": 25450,
     "status": 1,
-    "machine": [
-      "machine-0007",
-      "machine-0017",
-      "machine-0049",
-      "machine-0003",
-      "machine-0032",
-      "machine-0025",
-      "machine-0013",
-      "machine-0047"
-    ]
+    "machine": {
+      "machine-0044": {
+        "comment": ""
+      },
+      "machine-0028": {
+        "comment": ""
+      },
+      "machine-0010": {
+        "comment": ""
+      },
+      "machine-0008": {
+        "comment": ""
+      },
+      "machine-0015": {
+        "comment": ""
+      }
+    }
   },
   "45": {
     "seriesNo": "change-0045",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/11/19 18:52",
+    "changeDate": "2016/12/02 20:21",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/11/28",
-    "startTime": "21:23",
-    "endDate": "2016/12/09",
-    "endTime": "00:34",
+    "startDate": "2016/12/12",
+    "startTime": "22:53",
+    "endDate": "2016/12/21",
+    "endTime": "07:56",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 6,
+    "amount": 26776,
     "status": 1,
-    "machine": [
-      "machine-0045",
-      "machine-0029",
-      "machine-0037",
-      "machine-0033",
-      "machine-0017"
-    ]
+    "machine": {
+      "machine-0008": {
+        "comment": ""
+      },
+      "machine-0005": {
+        "comment": ""
+      },
+      "machine-0018": {
+        "comment": ""
+      },
+      "machine-0001": {
+        "comment": ""
+      },
+      "machine-0050": {
+        "comment": ""
+      }
+    }
   },
   "46": {
     "seriesNo": "change-0046",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/12/13 08:05",
-    "company": "亞磯",
+    "changeDate": "2016/12/09 04:56",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/12/21",
-    "startTime": "07:34",
-    "endDate": "2016/12/31",
-    "endTime": "19:32",
+    "startDate": "2016/12/19",
+    "startTime": "15:45",
+    "endDate": "2016/12/29",
+    "endTime": "08:16",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 4,
+    "amount": 45244,
     "status": 1,
-    "machine": [
-      "machine-0040",
-      "machine-0022",
-      "machine-0002",
-      "machine-0032",
-      "machine-0042",
-      "machine-0039"
-    ]
+    "machine": {
+      "machine-0045": {
+        "comment": ""
+      },
+      "machine-0028": {
+        "comment": ""
+      },
+      "machine-0043": {
+        "comment": ""
+      },
+      "machine-0004": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      }
+    }
   },
   "47": {
     "seriesNo": "change-0047",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/12/29 17:11",
+    "changeDate": "2016/12/25 23:22",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2017/01/09",
-    "startTime": "02:53",
-    "endDate": "2017/01/17",
-    "endTime": "09:26",
+    "startDate": "2017/01/02",
+    "startTime": "04:53",
+    "endDate": "2017/01/10",
+    "endTime": "02:09",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 30551,
+    "process": 4,
+    "amount": 35760,
     "status": 1,
-    "machine": [
-      "machine-0026",
-      "machine-0014",
-      "machine-0046",
-      "machine-0008",
-      "machine-0015"
-    ]
+    "machine": {
+      "machine-0026": {
+        "comment": ""
+      },
+      "machine-0016": {
+        "comment": ""
+      },
+      "machine-0039": {
+        "comment": ""
+      },
+      "machine-0006": {
+        "comment": ""
+      },
+      "machine-0003": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      }
+    }
   },
   "48": {
     "seriesNo": "change-0048",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2017/01/01 01:14",
-    "company": "流亞",
+    "changeDate": "2017/01/12 15:20",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2017/01/09",
-    "startTime": "04:36",
-    "endDate": "2017/01/18",
-    "endTime": "10:55",
+    "startDate": "2017/01/23",
+    "startTime": "04:17",
+    "endDate": "2017/02/01",
+    "endTime": "17:35",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 19122,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0021",
-      "machine-0036",
-      "machine-0008",
-      "machine-0041"
-    ]
+    "machine": {
+      "machine-0011": {
+        "comment": ""
+      },
+      "machine-0007": {
+        "comment": ""
+      },
+      "machine-0019": {
+        "comment": ""
+      },
+      "machine-0029": {
+        "comment": ""
+      },
+      "machine-0044": {
+        "comment": ""
+      },
+      "machine-0001": {
+        "comment": ""
+      }
+    }
   },
   "49": {
     "seriesNo": "change-0049",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2017/01/22 11:32",
-    "company": "流亞",
+    "changeDate": "2017/01/18 19:22",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2017/01/30",
-    "startTime": "18:02",
-    "endDate": "2017/02/07",
-    "endTime": "10:47",
+    "startDate": "2017/01/29",
+    "startTime": "06:59",
+    "endDate": "2017/02/05",
+    "endTime": "18:14",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 21905,
+    "process": 1,
+    "amount": 0,
     "status": 1,
-    "machine": [
-      "machine-0050",
-      "machine-0025",
-      "machine-0044",
-      "machine-0016",
-      "machine-0028"
-    ]
+    "machine": {
+      "machine-0029": {
+        "comment": ""
+      },
+      "machine-0020": {
+        "comment": ""
+      },
+      "machine-0023": {
+        "comment": ""
+      },
+      "machine-0004": {
+        "comment": ""
+      },
+      "machine-0037": {
+        "comment": ""
+      },
+      "machine-0014": {
+        "comment": ""
+      },
+      "machine-0028": {
+        "comment": ""
+      },
+      "machine-0031": {
+        "comment": ""
+      }
+    }
   },
   "50": {
     "seriesNo": "change-0050",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2017/02/12 15:39",
+    "changeDate": "2017/02/16 06:18",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2017/02/23",
-    "startTime": "00:03",
-    "endDate": "2017/03/04",
-    "endTime": "01:01",
+    "startDate": "2017/02/26",
+    "startTime": "22:10",
+    "endDate": "2017/03/09",
+    "endTime": "14:54",
     "clientTel": "055519899",
+    "clientEmail": "abcdefg@gmail.com",
     "clientAddress": "64057 雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 8241,
+    "process": 2,
+    "amount": 34126,
     "status": 1,
-    "machine": [
-      "machine-0023",
-      "machine-0002",
-      "machine-0038",
-      "machine-0031",
-      "machine-0013",
-      "machine-0028",
-      "machine-0027"
-    ]
+    "machine": {
+      "machine-0011": {
+        "comment": ""
+      },
+      "machine-0024": {
+        "comment": ""
+      },
+      "machine-0031": {
+        "comment": ""
+      },
+      "machine-0013": {
+        "comment": ""
+      },
+      "machine-0025": {
+        "comment": ""
+      },
+      "machine-0018": {
+        "comment": ""
+      },
+      "machine-0036": {
+        "comment": ""
+      }
+    }
   }
 }

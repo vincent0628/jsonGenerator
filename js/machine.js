@@ -7,7 +7,6 @@ $(function () {
 
         let detail = {
             "info": "染布機"+machinNoTailPad.toString(),
-            "comment": "備註"+machinNoTailPad.toString()
         };
 
         jsonFile[machinNo] = detail;

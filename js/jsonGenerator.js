@@ -2,7 +2,7 @@ $(function () {
     let oldDate = new Date(2015, 0, 1);
     let todayDate = new Date();
     let jsonFile = {};
-    // let data='re';
+    // let data='repair';
     // let data='change';
     // let data='complaint';
     let data='tank';
@@ -34,18 +34,18 @@ $(function () {
 
         let machineNum = getRandom(1, 8);
         let randomArray = getRandomArray(1, 50, machineNum);
-        let machineArray = [];
+        let machine = {};
         randomArray.forEach(function (item, index, array) {
             let machineNoTailPad = ("000" + randomArray[index]);
             let machineNoTail = machineNoTailPad.substr(length - 4);
             let machineNo = "machine-".concat(machineNoTail);
-            machineArray.push(machineNo)
+            machine[machineNo]={comment:""};
         });
         let id = "" + i;
 
-        if(data === 're') {
+        if(data === 'repair') {
             /////////////////////////////////repair/////////////////////////////
-            let seriesNo = "re-".concat(seriesNoTail);
+            let seriesNo = "repair-".concat(seriesNoTail);
             let repairDetail = {
                 "seriesNo": seriesNo,
                 "clientNo": "865309928",
@@ -58,11 +58,12 @@ $(function () {
                 "endDate": endDate,
                 "endTime": endTime,
                 "clientTel": "055519899",
+                "clientEmail": "abcdefg@gmail.com",
                 "clientAddress": "64057 雲林縣斗六市科加路20號",
                 "process": process,
                 "amount": amount,
                 "status": 1,
-                "machine": machineArray
+                "machine": machine
             };
             id = "" + i;
             jsonFile[id] = repairDetail;
@@ -84,11 +85,12 @@ $(function () {
                 "endDate": endDate,
                 "endTime": endTime,
                 "clientTel": "055519899",
+                "clientEmail": "abcdefg@gmail.com",
                 "clientAddress": "64057 雲林縣斗六市科加路20號",
                 "process": process,
                 "amount": amount,
                 "status": 1,
-                "machine": machineArray
+                "machine": machine
             };
             id = "" + i;
             jsonFile[id] = changeDetail;
@@ -106,9 +108,9 @@ $(function () {
                 "company": company,
                 "repairLevel": 1,
                 "clientTel": "055519899",
+                "clientEmail": "abcdefg@gmail.com",
                 "clientAddress": "64057 雲林縣斗六市科加路20號",
                 "process": process,
-                "amount": amount,
                 "status": 1,
             };
             id = "" + i;
@@ -131,11 +133,12 @@ $(function () {
                 "endDate": endDate,
                 "endTime": endTime,
                 "clientTel": "055519899",
+                "clientEmail": "abcdefg@gmail.com",
                 "clientAddress": "64057 雲林縣斗六市科加路20號",
                 "process": process,
                 "amount": amount,
                 "status": 1,
-                "machine": machineArray
+                "machine": machine
             };
             let id = "" + i;
             jsonFile[id] = tankDetail;
