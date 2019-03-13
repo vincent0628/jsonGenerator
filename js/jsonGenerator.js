@@ -2,33 +2,27 @@ $(function () {
     $('#repair').on('click', function () {
         let data = 'repair';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile));
-        var fs = require('fs');
-
-        fs.readFile('/json/repair.json','UTF-8' ,function (err, data) {
-            if (err) throw err;
-            console.log(data);
-        });
+        $("#go").text(JSON.stringify(jsonFile),null, 4);
     });
     $('#change').on('click', function () {
         let data = 'change';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile));
+        $("#go").text(JSON.stringify(jsonFile),null, 4);
     });
     $('#complaint').on('click', function () {
         let data = 'complaint';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile));
+        $("#go").text(JSON.stringify(jsonFile),null, 4);
     });
     $('#tank').on('click', function () {
         let data = 'tank';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile));
+        $("#go").text(JSON.stringify(jsonFile),null, 4);
     });
     $('#machine').on('click', function () {
         let data = 'machine';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile));
+        $("#go").text(JSON.stringify(jsonFile),null, 4);
     });
 
 });
@@ -60,13 +54,13 @@ function print(data) {
 
         let amount = (process === 1) ? 0 : getRandom(2000, 50000);
 
-        let machineNum = getRandom(1, 8);
-        let randomArray = getRandomArray(1, 50, machineNum);
+        let machineNum = getRandom(1, 5);
+        let randomArray = getRandomArray(1, 20, machineNum);
         let machine = {};
         randomArray.forEach(function (item, index, array) {
-            let machineNoTailPad = ("000" + randomArray[index]);
-            let machineNoTail = machineNoTailPad.substr(length - 4);
-            let machineNo = "machine-".concat(machineNoTail);
+            // let machineNoTailPad = ("000" + randomArray[index]);
+            // let machineNoTail = machineNoTailPad.substr(length - 4);
+            // let machineNo = "machine-".concat(machineNoTail);
             machine[item] = {comment: ""};
         });
         let id = "" + i;
@@ -94,7 +88,7 @@ function print(data) {
                 "machine": machine
             };
             id = "" + i;
-            jsonFile[item] = repairDetail;
+            jsonFile[id] = repairDetail;
             ////////////////////////////////////////////////////////////////////
         } else if (data === 'change') {
             /////////////////////////////////change/////////////////////////////
@@ -119,7 +113,7 @@ function print(data) {
                 "machine": machine
             };
             id = "" + i;
-            jsonFile[item] = changeDetail;
+            jsonFile[id] = changeDetail;
             ////////////////////////////////////////////////////////////////////}
         } else if (data === 'complaint') {
             /////////////////////////////////complaint//////////////////////////
@@ -180,7 +174,7 @@ function print(data) {
                 "machine": machine
             };
             let id = "" + i;
-            jsonFile[item] = tankDetail;
+            jsonFile[id] = tankDetail;
             ////////////////////////////////////////////////////////////////////
         } else if (data === 'machine') {
             /////////////////////////////////tank///////////////////////////////

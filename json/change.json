@@ -3,13 +3,13 @@
     "seriesNo": "change-0001",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/01/06 21:24",
+    "changeDate": "2015/01/23 04:43",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/01/17",
-    "startTime": "00:41",
-    "endDate": "2015/01/26",
-    "endTime": "05:57",
+    "startDate": "2015/01/31",
+    "startTime": "07:37",
+    "endDate": "2015/02/07",
+    "endTime": "08:49",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
@@ -17,13 +17,16 @@
     "amount": 0,
     "status": 1,
     "machine": {
+      "11": {
+        "comment": ""
+      },
+      "12": {
+        "comment": ""
+      },
+      "17": {
+        "comment": ""
+      },
       "19": {
-        "comment": ""
-      },
-      "33": {
-        "comment": ""
-      },
-      "48": {
         "comment": ""
       }
     }
@@ -32,42 +35,24 @@
     "seriesNo": "change-0002",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/01/18 13:00",
-    "company": "流亞",
+    "changeDate": "2015/02/05 12:24",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/01/28",
-    "startTime": "03:53",
-    "endDate": "2015/02/07",
-    "endTime": "01:47",
+    "startDate": "2015/02/16",
+    "startTime": "10:43",
+    "endDate": "2015/02/26",
+    "endTime": "02:04",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 5640,
+    "process": 5,
+    "amount": 41722,
     "status": 1,
     "machine": {
       "6": {
         "comment": ""
       },
-      "12": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "28": {
-        "comment": ""
-      },
-      "30": {
-        "comment": ""
-      },
-      "36": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
-      },
-      "50": {
+      "19": {
         "comment": ""
       }
     }
@@ -76,24 +61,24 @@
     "seriesNo": "change-0003",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/01/28 08:15",
-    "company": "流亞",
+    "changeDate": "2015/02/15 03:58",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/02/06",
-    "startTime": "23:03",
-    "endDate": "2015/02/17",
-    "endTime": "21:30",
+    "startDate": "2015/02/23",
+    "startTime": "22:00",
+    "endDate": "2015/03/06",
+    "endTime": "02:10",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
     "process": 4,
-    "amount": 14078,
+    "amount": 13670,
     "status": 1,
     "machine": {
-      "6": {
+      "8": {
         "comment": ""
       },
-      "29": {
+      "11": {
         "comment": ""
       }
     }
@@ -102,39 +87,24 @@
     "seriesNo": "change-0004",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/01/30 13:36",
-    "company": "流亞",
+    "changeDate": "2015/03/03 19:15",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/02/08",
-    "startTime": "02:31",
-    "endDate": "2015/02/17",
-    "endTime": "15:57",
+    "startDate": "2015/03/11",
+    "startTime": "16:15",
+    "endDate": "2015/03/21",
+    "endTime": "09:42",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 11974,
+    "process": 5,
+    "amount": 39205,
     "status": 1,
     "machine": {
-      "4": {
-        "comment": ""
-      },
       "8": {
         "comment": ""
       },
-      "16": {
-        "comment": ""
-      },
-      "22": {
-        "comment": ""
-      },
-      "26": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "38": {
+      "11": {
         "comment": ""
       }
     }
@@ -143,36 +113,30 @@
     "seriesNo": "change-0005",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/02/12 00:09",
+    "changeDate": "2015/03/11 05:10",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/02/21",
-    "startTime": "18:25",
-    "endDate": "2015/03/02",
-    "endTime": "05:42",
+    "startDate": "2015/03/20",
+    "startTime": "19:07",
+    "endDate": "2015/03/30",
+    "endTime": "10:26",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 4,
+    "amount": 46576,
     "status": 1,
     "machine": {
-      "3": {
+      "5": {
         "comment": ""
       },
       "7": {
         "comment": ""
       },
-      "18": {
+      "11": {
         "comment": ""
       },
-      "29": {
-        "comment": ""
-      },
-      "36": {
-        "comment": ""
-      },
-      "44": {
+      "15": {
         "comment": ""
       }
     }
@@ -181,42 +145,21 @@
     "seriesNo": "change-0006",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/03/03 03:24",
+    "changeDate": "2015/03/29 00:42",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/03/12",
-    "startTime": "17:44",
-    "endDate": "2015/03/19",
-    "endTime": "22:51",
+    "startDate": "2015/04/08",
+    "startTime": "05:36",
+    "endDate": "2015/04/18",
+    "endTime": "15:16",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 40018,
+    "process": 3,
+    "amount": 25829,
     "status": 1,
     "machine": {
-      "2": {
-        "comment": ""
-      },
-      "7": {
-        "comment": ""
-      },
-      "14": {
-        "comment": ""
-      },
-      "18": {
-        "comment": ""
-      },
-      "19": {
-        "comment": ""
-      },
-      "23": {
-        "comment": ""
-      },
-      "38": {
-        "comment": ""
-      },
-      "43": {
+      "17": {
         "comment": ""
       }
     }
@@ -225,42 +168,24 @@
     "seriesNo": "change-0007",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/03/10 16:12",
+    "changeDate": "2015/04/12 10:19",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/03/19",
-    "startTime": "15:27",
-    "endDate": "2015/03/29",
-    "endTime": "07:55",
+    "startDate": "2015/04/22",
+    "startTime": "01:50",
+    "endDate": "2015/05/01",
+    "endTime": "17:28",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 5,
-    "amount": 40567,
+    "process": 4,
+    "amount": 25966,
     "status": 1,
     "machine": {
-      "13": {
-        "comment": ""
-      },
-      "18": {
+      "16": {
         "comment": ""
       },
       "20": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "29": {
-        "comment": ""
-      },
-      "34": {
-        "comment": ""
-      },
-      "35": {
-        "comment": ""
-      },
-      "40": {
         "comment": ""
       }
     }
@@ -269,33 +194,21 @@
     "seriesNo": "change-0008",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/03/25 18:15",
-    "company": "流亞",
+    "changeDate": "2015/04/23 07:49",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/04/03",
-    "startTime": "10:23",
-    "endDate": "2015/04/13",
-    "endTime": "07:20",
+    "startDate": "2015/05/02",
+    "startTime": "06:06",
+    "endDate": "2015/05/10",
+    "endTime": "00:21",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 24748,
+    "process": 4,
+    "amount": 49783,
     "status": 1,
     "machine": {
-      "7": {
-        "comment": ""
-      },
-      "12": {
-        "comment": ""
-      },
-      "15": {
-        "comment": ""
-      },
-      "33": {
-        "comment": ""
-      },
-      "47": {
+      "17": {
         "comment": ""
       }
     }
@@ -304,18 +217,18 @@
     "seriesNo": "change-0009",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/04/08 12:37",
+    "changeDate": "2015/04/23 23:22",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/04/16",
-    "startTime": "19:15",
-    "endDate": "2015/04/26",
-    "endTime": "02:29",
+    "startDate": "2015/05/01",
+    "startTime": "20:35",
+    "endDate": "2015/05/10",
+    "endTime": "22:39",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 3,
+    "amount": 45049,
     "status": 1,
     "machine": {
       "1": {
@@ -327,7 +240,10 @@
       "12": {
         "comment": ""
       },
-      "49": {
+      "15": {
+        "comment": ""
+      },
+      "19": {
         "comment": ""
       }
     }
@@ -336,27 +252,21 @@
     "seriesNo": "change-0010",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/05/07 00:03",
-    "company": "流亞",
+    "changeDate": "2015/05/18 20:34",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/05/17",
-    "startTime": "01:17",
-    "endDate": "2015/05/26",
-    "endTime": "12:56",
+    "startDate": "2015/05/29",
+    "startTime": "04:23",
+    "endDate": "2015/06/05",
+    "endTime": "15:12",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 2,
+    "amount": 40892,
     "status": 1,
     "machine": {
-      "7": {
-        "comment": ""
-      },
-      "38": {
-        "comment": ""
-      },
-      "41": {
+      "6": {
         "comment": ""
       }
     }
@@ -365,18 +275,18 @@
     "seriesNo": "change-0011",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/06/03 09:56",
+    "changeDate": "2015/05/31 07:10",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/06/11",
-    "startTime": "19:35",
+    "startDate": "2015/06/08",
+    "startTime": "17:37",
     "endDate": "2015/06/19",
-    "endTime": "22:26",
+    "endTime": "16:53",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 8133,
+    "process": 3,
+    "amount": 9809,
     "status": 1,
     "machine": {
       "3": {
@@ -385,22 +295,10 @@
       "5": {
         "comment": ""
       },
-      "6": {
+      "9": {
         "comment": ""
       },
       "13": {
-        "comment": ""
-      },
-      "14": {
-        "comment": ""
-      },
-      "17": {
-        "comment": ""
-      },
-      "20": {
-        "comment": ""
-      },
-      "27": {
         "comment": ""
       }
     }
@@ -409,27 +307,27 @@
     "seriesNo": "change-0012",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/06/15 10:47",
+    "changeDate": "2015/06/10 15:47",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/06/22",
-    "startTime": "15:51",
-    "endDate": "2015/07/02",
-    "endTime": "17:50",
+    "startDate": "2015/06/18",
+    "startTime": "02:36",
+    "endDate": "2015/06/28",
+    "endTime": "23:10",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 40160,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "22": {
+      "7": {
         "comment": ""
       },
-      "36": {
+      "13": {
         "comment": ""
       },
-      "41": {
+      "15": {
         "comment": ""
       }
     }
@@ -438,33 +336,24 @@
     "seriesNo": "change-0013",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/06/20 21:01",
-    "company": "流亞",
+    "changeDate": "2015/07/03 18:03",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/06/28",
-    "startTime": "10:33",
-    "endDate": "2015/07/06",
-    "endTime": "02:06",
+    "startDate": "2015/07/14",
+    "startTime": "05:22",
+    "endDate": "2015/07/22",
+    "endTime": "16:08",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 5,
-    "amount": 34634,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "10": {
+      "3": {
         "comment": ""
       },
-      "17": {
-        "comment": ""
-      },
-      "23": {
-        "comment": ""
-      },
-      "24": {
-        "comment": ""
-      },
-      "29": {
+      "11": {
         "comment": ""
       }
     }
@@ -473,13 +362,13 @@
     "seriesNo": "change-0014",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/07/18 19:15",
+    "changeDate": "2015/07/06 02:58",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/07/27",
-    "startTime": "22:35",
-    "endDate": "2015/08/06",
-    "endTime": "05:46",
+    "startDate": "2015/07/15",
+    "startTime": "09:04",
+    "endDate": "2015/07/25",
+    "endTime": "18:46",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
@@ -489,12 +378,6 @@
     "machine": {
       "5": {
         "comment": ""
-      },
-      "38": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
       }
     }
   },
@@ -502,36 +385,21 @@
     "seriesNo": "change-0015",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/07/25 07:49",
-    "company": "流亞",
+    "changeDate": "2015/07/31 16:54",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/08/04",
-    "startTime": "17:31",
-    "endDate": "2015/08/12",
-    "endTime": "12:56",
+    "startDate": "2015/08/09",
+    "startTime": "02:36",
+    "endDate": "2015/08/18",
+    "endTime": "09:24",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 39871,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "3": {
-        "comment": ""
-      },
-      "4": {
-        "comment": ""
-      },
-      "35": {
-        "comment": ""
-      },
-      "37": {
-        "comment": ""
-      },
-      "42": {
-        "comment": ""
-      },
-      "44": {
+      "18": {
         "comment": ""
       }
     }
@@ -540,27 +408,21 @@
     "seriesNo": "change-0016",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/08/06 22:22",
+    "changeDate": "2015/08/09 19:25",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/08/17",
-    "startTime": "02:44",
-    "endDate": "2015/08/26",
-    "endTime": "14:48",
+    "startDate": "2015/08/20",
+    "startTime": "15:46",
+    "endDate": "2015/08/27",
+    "endTime": "21:22",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 5,
-    "amount": 35913,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "15": {
-        "comment": ""
-      },
-      "22": {
-        "comment": ""
-      },
-      "24": {
+      "12": {
         "comment": ""
       }
     }
@@ -569,36 +431,27 @@
     "seriesNo": "change-0017",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/08/08 15:18",
+    "changeDate": "2015/08/25 01:12",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/08/15",
-    "startTime": "16:54",
-    "endDate": "2015/08/25",
-    "endTime": "08:47",
+    "startDate": "2015/09/03",
+    "startTime": "14:29",
+    "endDate": "2015/09/12",
+    "endTime": "12:01",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 5,
-    "amount": 2814,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "22": {
+      "1": {
         "comment": ""
       },
-      "24": {
+      "3": {
         "comment": ""
       },
-      "33": {
-        "comment": ""
-      },
-      "35": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
-      },
-      "47": {
+      "7": {
         "comment": ""
       }
     }
@@ -607,39 +460,21 @@
     "seriesNo": "change-0018",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/08/23 13:53",
-    "company": "流亞",
+    "changeDate": "2015/08/30 23:04",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2015/08/31",
-    "startTime": "06:37",
-    "endDate": "2015/09/08",
-    "endTime": "13:16",
+    "startDate": "2015/09/10",
+    "startTime": "03:04",
+    "endDate": "2015/09/18",
+    "endTime": "15:15",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 33674,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "18": {
-        "comment": ""
-      },
-      "23": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "36": {
-        "comment": ""
-      },
-      "38": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
-      },
-      "50": {
+      "12": {
         "comment": ""
       }
     }
@@ -648,24 +483,21 @@
     "seriesNo": "change-0019",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/09/15 14:14",
-    "company": "亞磯",
+    "changeDate": "2015/09/09 04:10",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/09/26",
-    "startTime": "00:17",
-    "endDate": "2015/10/03",
-    "endTime": "13:16",
+    "startDate": "2015/09/17",
+    "startTime": "08:21",
+    "endDate": "2015/09/28",
+    "endTime": "01:30",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 43112,
+    "process": 6,
+    "amount": 47036,
     "status": 1,
     "machine": {
-      "36": {
-        "comment": ""
-      },
-      "48": {
+      "7": {
         "comment": ""
       }
     }
@@ -674,30 +506,27 @@
     "seriesNo": "change-0020",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/09/29 10:26",
+    "changeDate": "2015/09/18 06:21",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/10/08",
-    "startTime": "06:45",
-    "endDate": "2015/10/19",
-    "endTime": "04:55",
+    "startDate": "2015/09/26",
+    "startTime": "02:50",
+    "endDate": "2015/10/04",
+    "endTime": "02:54",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 48767,
+    "process": 4,
+    "amount": 38021,
     "status": 1,
     "machine": {
-      "26": {
+      "10": {
         "comment": ""
       },
-      "31": {
+      "13": {
         "comment": ""
       },
-      "34": {
-        "comment": ""
-      },
-      "40": {
+      "18": {
         "comment": ""
       }
     }
@@ -706,39 +535,21 @@
     "seriesNo": "change-0021",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/10/16 12:15",
-    "company": "亞磯",
+    "changeDate": "2015/10/01 09:38",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/10/24",
-    "startTime": "10:55",
-    "endDate": "2015/10/31",
-    "endTime": "12:19",
+    "startDate": "2015/10/11",
+    "startTime": "18:02",
+    "endDate": "2015/10/21",
+    "endTime": "12:16",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 44768,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "16": {
-        "comment": ""
-      },
-      "23": {
-        "comment": ""
-      },
-      "25": {
-        "comment": ""
-      },
-      "29": {
-        "comment": ""
-      },
-      "31": {
-        "comment": ""
-      },
-      "32": {
-        "comment": ""
-      },
-      "38": {
+      "15": {
         "comment": ""
       }
     }
@@ -747,135 +558,13 @@
     "seriesNo": "change-0022",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2015/11/13 00:31",
+    "changeDate": "2015/10/15 14:20",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2015/11/20",
-    "startTime": "05:31",
-    "endDate": "2015/11/29",
-    "endTime": "00:33",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 6,
-    "amount": 44057,
-    "status": 1,
-    "machine": {
-      "24": {
-        "comment": ""
-      }
-    }
-  },
-  "23": {
-    "seriesNo": "change-0023",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2015/11/28 08:20",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2015/12/05",
-    "startTime": "19:37",
-    "endDate": "2015/12/14",
-    "endTime": "14:01",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
-    "status": 1,
-    "machine": {
-      "21": {
-        "comment": ""
-      },
-      "26": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "31": {
-        "comment": ""
-      }
-    }
-  },
-  "24": {
-    "seriesNo": "change-0024",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2015/12/09 22:14",
-    "company": "亞磯",
-    "repairLevel": 1,
-    "startDate": "2015/12/20",
-    "startTime": "07:55",
-    "endDate": "2015/12/30",
-    "endTime": "21:36",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 23411,
-    "status": 1,
-    "machine": {
-      "25": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "31": {
-        "comment": ""
-      },
-      "35": {
-        "comment": ""
-      },
-      "38": {
-        "comment": ""
-      },
-      "41": {
-        "comment": ""
-      }
-    }
-  },
-  "25": {
-    "seriesNo": "change-0025",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2015/12/26 03:55",
-    "company": "亞磯",
-    "repairLevel": 1,
-    "startDate": "2016/01/03",
-    "startTime": "19:35",
-    "endDate": "2016/01/11",
-    "endTime": "22:01",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 2,
-    "amount": 45925,
-    "status": 1,
-    "machine": {
-      "2": {
-        "comment": ""
-      },
-      "15": {
-        "comment": ""
-      },
-      "45": {
-        "comment": ""
-      }
-    }
-  },
-  "26": {
-    "seriesNo": "change-0026",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/01/01 17:27",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/01/09",
-    "startTime": "08:37",
-    "endDate": "2016/01/18",
-    "endTime": "04:20",
+    "startDate": "2015/10/24",
+    "startTime": "04:29",
+    "endDate": "2015/11/01",
+    "endTime": "08:05",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
@@ -886,22 +575,123 @@
       "14": {
         "comment": ""
       },
+      "16": {
+        "comment": ""
+      }
+    }
+  },
+  "23": {
+    "seriesNo": "change-0023",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2015/10/21 10:56",
+    "company": "亞磯",
+    "repairLevel": 1,
+    "startDate": "2015/10/31",
+    "startTime": "14:27",
+    "endDate": "2015/11/09",
+    "endTime": "05:01",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 2,
+    "amount": 8558,
+    "status": 1,
+    "machine": {
+      "3": {
+        "comment": ""
+      },
+      "10": {
+        "comment": ""
+      },
+      "12": {
+        "comment": ""
+      },
       "17": {
         "comment": ""
-      },
-      "32": {
+      }
+    }
+  },
+  "24": {
+    "seriesNo": "change-0024",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2015/11/11 23:39",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2015/11/20",
+    "startTime": "07:17",
+    "endDate": "2015/11/30",
+    "endTime": "12:17",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 1,
+    "amount": 0,
+    "status": 1,
+    "machine": {
+      "7": {
         "comment": ""
       },
-      "33": {
+      "10": {
         "comment": ""
       },
-      "36": {
+      "14": {
         "comment": ""
       },
-      "43": {
+      "15": {
+        "comment": ""
+      }
+    }
+  },
+  "25": {
+    "seriesNo": "change-0025",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2015/12/09 18:52",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2015/12/20",
+    "startTime": "05:12",
+    "endDate": "2015/12/29",
+    "endTime": "23:31",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 4,
+    "amount": 16246,
+    "status": 1,
+    "machine": {
+      "11": {
+        "comment": ""
+      }
+    }
+  },
+  "26": {
+    "seriesNo": "change-0026",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/01/07 10:43",
+    "company": "亞磯",
+    "repairLevel": 1,
+    "startDate": "2016/01/14",
+    "startTime": "11:57",
+    "endDate": "2016/01/22",
+    "endTime": "16:56",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 5,
+    "amount": 48937,
+    "status": 1,
+    "machine": {
+      "5": {
         "comment": ""
       },
-      "48": {
+      "19": {
+        "comment": ""
+      },
+      "20": {
         "comment": ""
       }
     }
@@ -910,27 +700,21 @@
     "seriesNo": "change-0027",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/01/30 11:02",
-    "company": "流亞",
+    "changeDate": "2016/01/08 09:55",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/02/08",
-    "startTime": "23:50",
-    "endDate": "2016/02/16",
-    "endTime": "05:54",
+    "startDate": "2016/01/18",
+    "startTime": "19:04",
+    "endDate": "2016/01/27",
+    "endTime": "08:55",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
     "process": 3,
-    "amount": 22109,
+    "amount": 37744,
     "status": 1,
     "machine": {
-      "6": {
-        "comment": ""
-      },
-      "25": {
-        "comment": ""
-      },
-      "44": {
+      "12": {
         "comment": ""
       }
     }
@@ -939,33 +723,30 @@
     "seriesNo": "change-0028",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/02/08 06:24",
+    "changeDate": "2016/02/03 19:26",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/02/18",
-    "startTime": "11:44",
-    "endDate": "2016/02/28",
-    "endTime": "16:26",
+    "startDate": "2016/02/14",
+    "startTime": "16:49",
+    "endDate": "2016/02/24",
+    "endTime": "19:34",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 6,
-    "amount": 9294,
+    "process": 4,
+    "amount": 17873,
     "status": 1,
     "machine": {
-      "18": {
+      "1": {
         "comment": ""
       },
-      "21": {
+      "16": {
         "comment": ""
       },
-      "26": {
+      "17": {
         "comment": ""
       },
-      "42": {
-        "comment": ""
-      },
-      "49": {
+      "19": {
         "comment": ""
       }
     }
@@ -974,24 +755,33 @@
     "seriesNo": "change-0029",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/03/07 04:06",
-    "company": "亞磯",
+    "changeDate": "2016/02/11 05:31",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/03/16",
-    "startTime": "10:12",
-    "endDate": "2016/03/27",
-    "endTime": "04:19",
+    "startDate": "2016/02/21",
+    "startTime": "16:58",
+    "endDate": "2016/03/03",
+    "endTime": "14:35",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
     "process": 5,
-    "amount": 25097,
+    "amount": 32856,
     "status": 1,
     "machine": {
-      "6": {
+      "5": {
         "comment": ""
       },
-      "40": {
+      "11": {
+        "comment": ""
+      },
+      "14": {
+        "comment": ""
+      },
+      "15": {
+        "comment": ""
+      },
+      "16": {
         "comment": ""
       }
     }
@@ -1000,39 +790,21 @@
     "seriesNo": "change-0030",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/03/12 16:51",
-    "company": "流亞",
+    "changeDate": "2016/02/16 03:58",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/03/20",
-    "startTime": "02:24",
-    "endDate": "2016/03/27",
-    "endTime": "11:24",
+    "startDate": "2016/02/24",
+    "startTime": "11:18",
+    "endDate": "2016/03/02",
+    "endTime": "19:35",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 6,
-    "amount": 43702,
+    "process": 5,
+    "amount": 9126,
     "status": 1,
     "machine": {
-      "7": {
-        "comment": ""
-      },
-      "9": {
-        "comment": ""
-      },
-      "13": {
-        "comment": ""
-      },
-      "28": {
-        "comment": ""
-      },
-      "36": {
-        "comment": ""
-      },
-      "42": {
-        "comment": ""
-      },
-      "44": {
+      "11": {
         "comment": ""
       }
     }
@@ -1041,42 +813,30 @@
     "seriesNo": "change-0031",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/04/03 23:26",
-    "company": "流亞",
+    "changeDate": "2016/02/22 13:00",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/04/13",
-    "startTime": "22:39",
-    "endDate": "2016/04/22",
-    "endTime": "06:45",
+    "startDate": "2016/03/03",
+    "startTime": "12:00",
+    "endDate": "2016/03/10",
+    "endTime": "17:53",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
     "process": 5,
-    "amount": 40064,
+    "amount": 34070,
     "status": 1,
     "machine": {
-      "4": {
+      "1": {
         "comment": ""
       },
       "5": {
         "comment": ""
       },
-      "10": {
+      "8": {
         "comment": ""
       },
-      "19": {
-        "comment": ""
-      },
-      "20": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "34": {
-        "comment": ""
-      },
-      "43": {
+      "9": {
         "comment": ""
       }
     }
@@ -1085,13 +845,13 @@
     "seriesNo": "change-0032",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/04/09 08:41",
-    "company": "亞磯",
+    "changeDate": "2016/02/24 10:09",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/04/18",
-    "startTime": "15:03",
-    "endDate": "2016/04/29",
-    "endTime": "13:09",
+    "startDate": "2016/03/04",
+    "startTime": "01:43",
+    "endDate": "2016/03/13",
+    "endTime": "07:17",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
@@ -1099,19 +859,10 @@
     "amount": 0,
     "status": 1,
     "machine": {
-      "3": {
+      "9": {
         "comment": ""
       },
-      "23": {
-        "comment": ""
-      },
-      "24": {
-        "comment": ""
-      },
-      "29": {
-        "comment": ""
-      },
-      "41": {
+      "11": {
         "comment": ""
       }
     }
@@ -1120,42 +871,30 @@
     "seriesNo": "change-0033",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/04/13 17:51",
+    "changeDate": "2016/03/19 03:51",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/04/23",
-    "startTime": "05:20",
-    "endDate": "2016/05/03",
-    "endTime": "02:00",
+    "startDate": "2016/03/29",
+    "startTime": "03:05",
+    "endDate": "2016/04/05",
+    "endTime": "05:52",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 6896,
+    "process": 2,
+    "amount": 27067,
     "status": 1,
     "machine": {
-      "3": {
+      "5": {
+        "comment": ""
+      },
+      "18": {
         "comment": ""
       },
       "19": {
         "comment": ""
       },
-      "27": {
-        "comment": ""
-      },
-      "35": {
-        "comment": ""
-      },
-      "38": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
-      },
-      "42": {
-        "comment": ""
-      },
-      "49": {
+      "20": {
         "comment": ""
       }
     }
@@ -1164,407 +903,13 @@
     "seriesNo": "change-0034",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/05/05 21:55",
+    "changeDate": "2016/04/02 10:38",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/05/13",
-    "startTime": "02:44",
-    "endDate": "2016/05/24",
-    "endTime": "00:52",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
-    "status": 1,
-    "machine": {
-      "11": {
-        "comment": ""
-      },
-      "29": {
-        "comment": ""
-      },
-      "37": {
-        "comment": ""
-      }
-    }
-  },
-  "35": {
-    "seriesNo": "change-0035",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/05/09 09:45",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/05/19",
-    "startTime": "00:11",
-    "endDate": "2016/05/29",
-    "endTime": "09:41",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
-    "status": 1,
-    "machine": {
-      "4": {
-        "comment": ""
-      },
-      "25": {
-        "comment": ""
-      },
-      "26": {
-        "comment": ""
-      },
-      "30": {
-        "comment": ""
-      },
-      "37": {
-        "comment": ""
-      },
-      "39": {
-        "comment": ""
-      },
-      "43": {
-        "comment": ""
-      },
-      "49": {
-        "comment": ""
-      }
-    }
-  },
-  "36": {
-    "seriesNo": "change-0036",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/05/21 07:43",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/05/28",
-    "startTime": "13:47",
-    "endDate": "2016/06/04",
-    "endTime": "23:55",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 5650,
-    "status": 1,
-    "machine": {
-      "6": {
-        "comment": ""
-      },
-      "12": {
-        "comment": ""
-      },
-      "18": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "35": {
-        "comment": ""
-      },
-      "39": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
-      },
-      "48": {
-        "comment": ""
-      }
-    }
-  },
-  "37": {
-    "seriesNo": "change-0037",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/06/16 01:24",
-    "company": "亞磯",
-    "repairLevel": 1,
-    "startDate": "2016/06/25",
-    "startTime": "16:06",
-    "endDate": "2016/07/05",
-    "endTime": "17:51",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
-    "status": 1,
-    "machine": {
-      "11": {
-        "comment": ""
-      },
-      "30": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
-      },
-      "46": {
-        "comment": ""
-      }
-    }
-  },
-  "38": {
-    "seriesNo": "change-0038",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/07/12 17:33",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/07/21",
-    "startTime": "03:57",
-    "endDate": "2016/07/30",
-    "endTime": "21:04",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 16912,
-    "status": 1,
-    "machine": {
-      "20": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "42": {
-        "comment": ""
-      }
-    }
-  },
-  "39": {
-    "seriesNo": "change-0039",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/08/11 15:23",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/08/21",
-    "startTime": "11:42",
-    "endDate": "2016/08/31",
-    "endTime": "00:56",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
-    "status": 1,
-    "machine": {
-      "13": {
-        "comment": ""
-      },
-      "15": {
-        "comment": ""
-      },
-      "32": {
-        "comment": ""
-      },
-      "34": {
-        "comment": ""
-      },
-      "41": {
-        "comment": ""
-      },
-      "48": {
-        "comment": ""
-      },
-      "49": {
-        "comment": ""
-      },
-      "50": {
-        "comment": ""
-      }
-    }
-  },
-  "40": {
-    "seriesNo": "change-0040",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/08/29 23:34",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/09/08",
-    "startTime": "21:41",
-    "endDate": "2016/09/17",
-    "endTime": "13:52",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 20398,
-    "status": 1,
-    "machine": {
-      "1": {
-        "comment": ""
-      },
-      "11": {
-        "comment": ""
-      },
-      "22": {
-        "comment": ""
-      },
-      "33": {
-        "comment": ""
-      },
-      "44": {
-        "comment": ""
-      },
-      "45": {
-        "comment": ""
-      },
-      "46": {
-        "comment": ""
-      }
-    }
-  },
-  "41": {
-    "seriesNo": "change-0041",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/09/27 18:23",
-    "company": "亞磯",
-    "repairLevel": 1,
-    "startDate": "2016/10/06",
-    "startTime": "18:33",
-    "endDate": "2016/10/14",
-    "endTime": "17:15",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 12784,
-    "status": 1,
-    "machine": {
-      "1": {
-        "comment": ""
-      },
-      "2": {
-        "comment": ""
-      },
-      "9": {
-        "comment": ""
-      },
-      "12": {
-        "comment": ""
-      },
-      "13": {
-        "comment": ""
-      },
-      "23": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
-      },
-      "42": {
-        "comment": ""
-      }
-    }
-  },
-  "42": {
-    "seriesNo": "change-0042",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/10/06 06:30",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/10/14",
-    "startTime": "18:59",
-    "endDate": "2016/10/25",
-    "endTime": "11:43",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
-    "status": 1,
-    "machine": {
-      "19": {
-        "comment": ""
-      },
-      "24": {
-        "comment": ""
-      }
-    }
-  },
-  "43": {
-    "seriesNo": "change-0043",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/10/10 04:37",
-    "company": "亞磯",
-    "repairLevel": 1,
-    "startDate": "2016/10/19",
-    "startTime": "03:33",
-    "endDate": "2016/10/27",
-    "endTime": "15:06",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 48355,
-    "status": 1,
-    "machine": {
-      "28": {
-        "comment": ""
-      },
-      "30": {
-        "comment": ""
-      }
-    }
-  },
-  "44": {
-    "seriesNo": "change-0044",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/10/26 06:32",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/11/03",
-    "startTime": "20:26",
-    "endDate": "2016/11/13",
-    "endTime": "18:51",
-    "clientTel": "05-5519899",
-    "clientEmail": "ttri1234@ttri.org.tw",
-    "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 5,
-    "amount": 18060,
-    "status": 1,
-    "machine": {
-      "2": {
-        "comment": ""
-      },
-      "12": {
-        "comment": ""
-      },
-      "18": {
-        "comment": ""
-      },
-      "29": {
-        "comment": ""
-      },
-      "48": {
-        "comment": ""
-      }
-    }
-  },
-  "45": {
-    "seriesNo": "change-0045",
-    "clientNo": "865309928",
-    "clientName": "紡織所雲林廠",
-    "changeDate": "2016/10/30 19:12",
-    "company": "流亞",
-    "repairLevel": 1,
-    "startDate": "2016/11/07",
-    "startTime": "23:44",
-    "endDate": "2016/11/16",
-    "endTime": "14:50",
+    "startDate": "2016/04/10",
+    "startTime": "08:23",
+    "endDate": "2016/04/21",
+    "endTime": "01:53",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
@@ -1575,25 +920,314 @@
       "5": {
         "comment": ""
       },
+      "6": {
+        "comment": ""
+      },
+      "8": {
+        "comment": ""
+      },
+      "15": {
+        "comment": ""
+      },
+      "16": {
+        "comment": ""
+      }
+    }
+  },
+  "35": {
+    "seriesNo": "change-0035",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/04/28 12:18",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2016/05/06",
+    "startTime": "10:01",
+    "endDate": "2016/05/14",
+    "endTime": "10:09",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 4,
+    "amount": 5763,
+    "status": 1,
+    "machine": {
+      "8": {
+        "comment": ""
+      },
+      "15": {
+        "comment": ""
+      }
+    }
+  },
+  "36": {
+    "seriesNo": "change-0036",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/05/01 03:24",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2016/05/10",
+    "startTime": "08:16",
+    "endDate": "2016/05/20",
+    "endTime": "12:28",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 1,
+    "amount": 0,
+    "status": 1,
+    "machine": {
+      "4": {
+        "comment": ""
+      },
+      "7": {
+        "comment": ""
+      }
+    }
+  },
+  "37": {
+    "seriesNo": "change-0037",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/05/04 15:12",
+    "company": "亞磯",
+    "repairLevel": 1,
+    "startDate": "2016/05/12",
+    "startTime": "08:54",
+    "endDate": "2016/05/20",
+    "endTime": "03:58",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 6,
+    "amount": 24727,
+    "status": 1,
+    "machine": {
+      "8": {
+        "comment": ""
+      }
+    }
+  },
+  "38": {
+    "seriesNo": "change-0038",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/05/20 06:59",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2016/05/29",
+    "startTime": "02:10",
+    "endDate": "2016/06/05",
+    "endTime": "08:15",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 3,
+    "amount": 28070,
+    "status": 1,
+    "machine": {
+      "1": {
+        "comment": ""
+      },
+      "8": {
+        "comment": ""
+      },
+      "9": {
+        "comment": ""
+      },
       "10": {
+        "comment": ""
+      },
+      "17": {
+        "comment": ""
+      }
+    }
+  },
+  "39": {
+    "seriesNo": "change-0039",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/06/01 04:36",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2016/06/11",
+    "startTime": "21:42",
+    "endDate": "2016/06/21",
+    "endTime": "19:06",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 1,
+    "amount": 0,
+    "status": 1,
+    "machine": {
+      "6": {
+        "comment": ""
+      },
+      "12": {
         "comment": ""
       },
       "13": {
         "comment": ""
       },
-      "19": {
+      "14": {
         "comment": ""
       },
-      "33": {
+      "17": {
+        "comment": ""
+      }
+    }
+  },
+  "40": {
+    "seriesNo": "change-0040",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/06/14 15:56",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2016/06/22",
+    "startTime": "17:42",
+    "endDate": "2016/07/01",
+    "endTime": "23:55",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 1,
+    "amount": 0,
+    "status": 1,
+    "machine": {
+      "8": {
         "comment": ""
       },
-      "41": {
+      "15": {
         "comment": ""
       },
-      "48": {
+      "16": {
+        "comment": ""
+      }
+    }
+  },
+  "41": {
+    "seriesNo": "change-0041",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/07/07 09:28",
+    "company": "亞磯",
+    "repairLevel": 1,
+    "startDate": "2016/07/16",
+    "startTime": "11:52",
+    "endDate": "2016/07/23",
+    "endTime": "21:05",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 2,
+    "amount": 44339,
+    "status": 1,
+    "machine": {
+      "9": {
+        "comment": ""
+      }
+    }
+  },
+  "42": {
+    "seriesNo": "change-0042",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/07/15 20:05",
+    "company": "亞磯",
+    "repairLevel": 1,
+    "startDate": "2016/07/23",
+    "startTime": "02:25",
+    "endDate": "2016/07/30",
+    "endTime": "06:35",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 5,
+    "amount": 11821,
+    "status": 1,
+    "machine": {
+      "10": {
+        "comment": ""
+      }
+    }
+  },
+  "43": {
+    "seriesNo": "change-0043",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/08/04 19:54",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2016/08/13",
+    "startTime": "12:28",
+    "endDate": "2016/08/21",
+    "endTime": "09:15",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 2,
+    "amount": 13879,
+    "status": 1,
+    "machine": {
+      "4": {
         "comment": ""
       },
-      "49": {
+      "9": {
+        "comment": ""
+      }
+    }
+  },
+  "44": {
+    "seriesNo": "change-0044",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/08/27 11:50",
+    "company": "亞磯",
+    "repairLevel": 1,
+    "startDate": "2016/09/05",
+    "startTime": "13:02",
+    "endDate": "2016/09/14",
+    "endTime": "11:25",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 1,
+    "amount": 0,
+    "status": 1,
+    "machine": {
+      "13": {
+        "comment": ""
+      },
+      "17": {
+        "comment": ""
+      }
+    }
+  },
+  "45": {
+    "seriesNo": "change-0045",
+    "clientNo": "865309928",
+    "clientName": "紡織所雲林廠",
+    "changeDate": "2016/08/31 07:27",
+    "company": "流亞",
+    "repairLevel": 1,
+    "startDate": "2016/09/09",
+    "startTime": "04:32",
+    "endDate": "2016/09/18",
+    "endTime": "02:12",
+    "clientTel": "05-5519899",
+    "clientEmail": "ttri1234@ttri.org.tw",
+    "clientAddress": "雲林縣斗六市科加路20號",
+    "process": 3,
+    "amount": 45932,
+    "status": 1,
+    "machine": {
+      "8": {
+        "comment": ""
+      },
+      "9": {
         "comment": ""
       }
     }
@@ -1602,30 +1236,24 @@
     "seriesNo": "change-0046",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/11/05 09:00",
+    "changeDate": "2016/09/03 20:33",
     "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/11/12",
-    "startTime": "19:34",
-    "endDate": "2016/11/23",
-    "endTime": "03:41",
+    "startDate": "2016/09/14",
+    "startTime": "04:25",
+    "endDate": "2016/09/22",
+    "endTime": "08:26",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 41382,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "13": {
+      "5": {
         "comment": ""
       },
-      "31": {
-        "comment": ""
-      },
-      "34": {
-        "comment": ""
-      },
-      "38": {
+      "20": {
         "comment": ""
       }
     }
@@ -1634,21 +1262,30 @@
     "seriesNo": "change-0047",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/11/26 09:51",
-    "company": "亞磯",
+    "changeDate": "2016/09/05 09:14",
+    "company": "流亞",
     "repairLevel": 1,
-    "startDate": "2016/12/07",
-    "startTime": "03:43",
-    "endDate": "2016/12/15",
-    "endTime": "23:29",
+    "startDate": "2016/09/14",
+    "startTime": "11:41",
+    "endDate": "2016/09/23",
+    "endTime": "08:10",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 1,
-    "amount": 0,
+    "process": 4,
+    "amount": 39104,
     "status": 1,
     "machine": {
-      "21": {
+      "7": {
+        "comment": ""
+      },
+      "9": {
+        "comment": ""
+      },
+      "10": {
+        "comment": ""
+      },
+      "14": {
         "comment": ""
       }
     }
@@ -1657,24 +1294,33 @@
     "seriesNo": "change-0048",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2016/12/14 04:14",
-    "company": "流亞",
+    "changeDate": "2016/10/03 07:01",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2016/12/21",
-    "startTime": "07:20",
-    "endDate": "2016/12/29",
-    "endTime": "02:35",
+    "startDate": "2016/10/13",
+    "startTime": "15:45",
+    "endDate": "2016/10/24",
+    "endTime": "05:50",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 5,
-    "amount": 42337,
+    "process": 6,
+    "amount": 42324,
     "status": 1,
     "machine": {
-      "28": {
+      "4": {
         "comment": ""
       },
-      "39": {
+      "6": {
+        "comment": ""
+      },
+      "11": {
+        "comment": ""
+      },
+      "14": {
+        "comment": ""
+      },
+      "17": {
         "comment": ""
       }
     }
@@ -1683,27 +1329,30 @@
     "seriesNo": "change-0049",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2017/01/10 03:34",
-    "company": "流亞",
+    "changeDate": "2016/10/28 15:46",
+    "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2017/01/20",
-    "startTime": "14:59",
-    "endDate": "2017/01/28",
-    "endTime": "12:30",
+    "startDate": "2016/11/08",
+    "startTime": "00:28",
+    "endDate": "2016/11/15",
+    "endTime": "16:19",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 4,
-    "amount": 36658,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "1": {
+      "4": {
         "comment": ""
       },
-      "10": {
+      "8": {
         "comment": ""
       },
-      "28": {
+      "11": {
+        "comment": ""
+      },
+      "20": {
         "comment": ""
       }
     }
@@ -1712,42 +1361,24 @@
     "seriesNo": "change-0050",
     "clientNo": "865309928",
     "clientName": "紡織所雲林廠",
-    "changeDate": "2017/02/03 06:37",
+    "changeDate": "2016/11/04 14:26",
     "company": "亞磯",
     "repairLevel": 1,
-    "startDate": "2017/02/14",
-    "startTime": "02:46",
-    "endDate": "2017/02/22",
-    "endTime": "02:32",
+    "startDate": "2016/11/15",
+    "startTime": "06:49",
+    "endDate": "2016/11/24",
+    "endTime": "16:12",
     "clientTel": "05-5519899",
     "clientEmail": "ttri1234@ttri.org.tw",
     "clientAddress": "雲林縣斗六市科加路20號",
-    "process": 3,
-    "amount": 29168,
+    "process": 1,
+    "amount": 0,
     "status": 1,
     "machine": {
-      "6": {
+      "13": {
         "comment": ""
       },
-      "11": {
-        "comment": ""
-      },
-      "18": {
-        "comment": ""
-      },
-      "21": {
-        "comment": ""
-      },
-      "27": {
-        "comment": ""
-      },
-      "39": {
-        "comment": ""
-      },
-      "40": {
-        "comment": ""
-      },
-      "47": {
+      "19": {
         "comment": ""
       }
     }
