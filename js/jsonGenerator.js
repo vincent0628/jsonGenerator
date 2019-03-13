@@ -31,6 +31,12 @@ $(function () {
         let formattedData = JSON.stringify(jsonFile,null, 4);
         $("#go").text(formattedData);
     });
+    $('#client').on('click', function () {
+        let data = 'client';
+        let jsonFile = print(data);
+        let formattedData = JSON.stringify(jsonFile,null, 4);
+        $("#go").text(formattedData);
+    });
 
 });
 
@@ -269,6 +275,18 @@ function print(data) {
             };
             let id = "" + i;
             jsonFile = machineDetail;
+            ////////////////////////////////////////////////////////////////////
+        }else if (data === 'client') {
+            /////////////////////////////////tank///////////////////////////////
+            let clientDetail = {
+                "clientNo": "865309928",
+                "clientName": "紡織所雲林廠",
+                "clientTel": "05-5519899",
+                "clientEmail": "ttri1234@ttri.org.tw",
+                "clientAddress": "雲林縣斗六市科加路20號"
+            };
+            let id = "" + i;
+            jsonFile = clientDetail;
             ////////////////////////////////////////////////////////////////////
         }
     }
