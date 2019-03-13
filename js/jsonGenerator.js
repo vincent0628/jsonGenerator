@@ -3,6 +3,12 @@ $(function () {
         let data = 'repair';
         let jsonFile = print(data);
         $("#go").text(JSON.stringify(jsonFile));
+        var fs = require('fs');
+
+        fs.readFile('/json/repair.json','UTF-8' ,function (err, data) {
+            if (err) throw err;
+            console.log(data);
+        });
     });
     $('#change').on('click', function () {
         let data = 'change';
@@ -24,6 +30,7 @@ $(function () {
         let jsonFile = print(data);
         $("#go").text(JSON.stringify(jsonFile));
     });
+
 });
 
 
@@ -60,7 +67,7 @@ function print(data) {
             let machineNoTailPad = ("000" + randomArray[index]);
             let machineNoTail = machineNoTailPad.substr(length - 4);
             let machineNo = "machine-".concat(machineNoTail);
-            machine[machineNo] = {comment: ""};
+            machine[item] = {comment: ""};
         });
         let id = "" + i;
 
@@ -87,7 +94,7 @@ function print(data) {
                 "machine": machine
             };
             id = "" + i;
-            jsonFile[id] = repairDetail;
+            jsonFile[item] = repairDetail;
             ////////////////////////////////////////////////////////////////////
         } else if (data === 'change') {
             /////////////////////////////////change/////////////////////////////
@@ -112,7 +119,7 @@ function print(data) {
                 "machine": machine
             };
             id = "" + i;
-            jsonFile[id] = changeDetail;
+            jsonFile[item] = changeDetail;
             ////////////////////////////////////////////////////////////////////}
         } else if (data === 'complaint') {
             /////////////////////////////////complaint//////////////////////////
@@ -173,7 +180,7 @@ function print(data) {
                 "machine": machine
             };
             let id = "" + i;
-            jsonFile[id] = tankDetail;
+            jsonFile[item] = tankDetail;
             ////////////////////////////////////////////////////////////////////
         } else if (data === 'machine') {
             /////////////////////////////////tank///////////////////////////////
