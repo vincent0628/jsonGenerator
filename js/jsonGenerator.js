@@ -2,27 +2,34 @@ $(function () {
     $('#repair').on('click', function () {
         let data = 'repair';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile),null, 4);
+        let formattedData = JSON.stringify(jsonFile,null, 4);
+        $("#go").text(formattedData);
     });
+
     $('#change').on('click', function () {
         let data = 'change';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile),null, 4);
+        let formattedData = JSON.stringify(jsonFile,null, 4);
+        $("#go").text(formattedData);
     });
     $('#complaint').on('click', function () {
         let data = 'complaint';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile),null, 4);
+        let formattedData = JSON.stringify(jsonFile,null, 4);
+        $("#go").text(formattedData);
+
     });
     $('#tank').on('click', function () {
         let data = 'tank';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile),null, 4);
+        let formattedData = JSON.stringify(jsonFile,null, 4);
+        $("#go").text(formattedData);
     });
     $('#machine').on('click', function () {
         let data = 'machine';
         let jsonFile = print(data);
-        $("#go").text(JSON.stringify(jsonFile),null, 4);
+        let formattedData = JSON.stringify(jsonFile,null, 4);
+        $("#go").text(formattedData);
     });
 
 });
