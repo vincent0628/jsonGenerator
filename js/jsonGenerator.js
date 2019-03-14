@@ -3,6 +3,7 @@ $(function () {
         let data = 'repair';
         let jsonFile = print(data);
         let formattedData = JSON.stringify(jsonFile,null, 4);
+        ajax('/DB/repair.json', jsonFile);
         $("#go").text(formattedData);
     });
 
@@ -10,12 +11,14 @@ $(function () {
         let data = 'change';
         let jsonFile = print(data);
         let formattedData = JSON.stringify(jsonFile,null, 4);
+        ajax('/DB/change.json', jsonFile);
         $("#go").text(formattedData);
     });
     $('#complaint').on('click', function () {
         let data = 'complaint';
         let jsonFile = print(data);
         let formattedData = JSON.stringify(jsonFile,null, 4);
+        ajax('/DB/complaint.json', jsonFile);
         $("#go").text(formattedData);
 
     });
@@ -23,18 +26,21 @@ $(function () {
         let data = 'tank';
         let jsonFile = print(data);
         let formattedData = JSON.stringify(jsonFile,null, 4);
+        ajax('/DB/complaint.json', jsonFile);
         $("#go").text(formattedData);
     });
     $('#machine').on('click', function () {
         let data = 'machine';
         let jsonFile = print(data);
         let formattedData = JSON.stringify(jsonFile,null, 4);
+        ajax('/factory/data/machine.json', jsonFile);
         $("#go").text(formattedData);
     });
     $('#client').on('click', function () {
         let data = 'client';
         let jsonFile = print(data);
         let formattedData = JSON.stringify(jsonFile,null, 4);
+        ajax('/factory/data/client.json', jsonFile);
         $("#go").text(formattedData);
     });
 
@@ -344,4 +350,18 @@ function choose(a, b, c, d) {
     } else {
         return (Math.random() >= 0.5) ? a : b;
     }
+}
+
+function ajax(fileName, data) {
+    $.ajax({
+        type: "POST",
+        url: "writeFile.php",
+        data: { fileName: fileName, data: data },
+        success: function () {
+            console.log('success');
+        },
+        error: function () {
+            console.log('error');
+        }
+    });
 }
